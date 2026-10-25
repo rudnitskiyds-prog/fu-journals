@@ -589,7 +589,7 @@ window.FU_DATA = {
    "rsci": true,
    "doaj_flag": false,
    "egpni_id": "29487",
-   "publisher": null,
+   "publisher": "INION RAS",
    "vak": {
     "in": true,
     "flag_date": "31.01.2024",
@@ -659,7 +659,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -1127,16 +1127,11 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Сроки рецензирования составляют до 2 месяцев со дня получения редакцией рукописи.",
-     "url": "http://apk-eu.ru/page/3"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://apk-eu.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -1786,6 +1781,7 @@ window.FU_DATA = {
    "author_page": null,
    "rinc": true,
    "emails": [
+    "east-west-law@inno.mgimo.ru",
     "avtor@lawinfo.ru",
     "avtor@lawinfo.ru\\",
     "gruchkina@fa.ru"
@@ -1802,7 +1798,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://lawinfo.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtor@lawinfo.ru",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: east-west-law@inno.mgimo.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -2003,43 +1999,16 @@ window.FU_DATA = {
    "site": "https://www.btpnadzor.ru/ru/o-zhurnale",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "zakaz@safety.ru",
-    "btp@safety.ru",
-    "redbtp@safety.ru",
-    "webmaster@safety.ru"
-   ],
-   "phones": [
-    "+7 (495) 775-23-38",
-    "+7 (495) 620-47-53",
-    "+7 (495) 620-47-44"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://www.btpnadzor.ru/ru/o-zhurnale"
-   },
-   "price_mentions": [
-    {
-     "text": "срокам публикации без предварительного изменения и на условиях ее свободного (бесплатного) использования.Обязательным условием перепечатки и ретрансляции является ссылка на",
-     "url": "https://www.btpnadzor.ru/ru/o-zhurnale"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Срок рецензирования составляет 2–4 недели, но по просьбе рецензента может быть продлен.",
-     "url": "https://www.btpnadzor.ru/redakcionnaya-etika"
-    },
-    {
-     "text": "В среднем срок рецензирования составляет 1 месяц.",
-     "url": "https://www.btpnadzor.ru/pravila-recenzirovaniya-nauchnyh-statey"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.btpnadzor.ru/ru/o-zhurnale",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: zakaz@safety.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -2618,20 +2587,16 @@ window.FU_DATA = {
    "site": "https://www.herald-of-an-archivist.com/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "avtoram@vestarchive.ru"
-   ],
-   "phones": [
-    "+7(916)2522822"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.herald-of-an-archivist.com/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtoram@vestarchive.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -3029,16 +2994,36 @@ window.FU_DATA = {
    "site": "https://ges.jvolsu.com/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "emails": [
+    "nfo@archilab.online"
+   ],
+   "phones": [
+    "8(8442) 40-55-17",
+    "8(8442) 46-18-48",
+    "8(8442) 40-55-33"
+   ],
+   "site_ok": true,
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://ges.jvolsu.com/index.php/ru/for-author-ru"
+   },
+   "price_mentions": [
+    {
+     "text": "Подача, рецензирование, редактирование и публикация статей в журнале являются бесплатными.",
+     "url": "https://ges.jvolsu.com/index.php/ru/for-author-ru"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рецензирования – 2 месяца.",
+     "url": "https://ges.jvolsu.com/index.php/ru/for-author-ru"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://ges.jvolsu.com/",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: nfo@archilab.online",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -3693,13 +3678,9 @@ window.FU_DATA = {
    "site": "https://www.economicsmgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "sj@guppros.ru"
-   ],
-   "phones": [
-    "8 (495) 780-09-49"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -3756,16 +3737,27 @@ window.FU_DATA = {
    "site": "https://mvgp.org/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": false,
+   "emails": [
+    "mvgp@mvgp.ru",
+    "editorial.vgp@gmail.com",
+    "mvgp@mvgp.org"
+   ],
+   "phones": [
+    "+7(980)196-01-68"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Рецензирование проводится конфиденциально в срок 1-3 месяца, исчисляемый со дня принятия рукописи к рассмотрению в соответствии с п.",
+     "url": "https://mvgp.org/for-authors/"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://mvgp.org/",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: mvgp@mvgp.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -3816,18 +3808,16 @@ window.FU_DATA = {
    "site": "https://elibrary.ru/title_about_new.asp?id=32853&langid=1",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "support@elibrary.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://elibrary.ru/title_about_new.asp?id=32853&langid=1",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: support@elibrary.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -3943,25 +3933,16 @@ window.FU_DATA = {
    "site": "https://zabvestnik.com/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vestnikzabgu@yandex.ru",
-    "mail@zabgu.ru",
-    "gorodkovasa@zabgu.ru",
-    "vestnik@zabgu.ru"
-   ],
-   "phones": [
-    "+7(3022)41-64-44",
-    "+7 (3022) 41-64-44",
-    "+7 (3022) 41-67-18"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://zabvestnik.com/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: vestnikzabgu@yandex.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -4187,21 +4168,16 @@ window.FU_DATA = {
    "site": "https://vestnik-kazgau.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "info@kazgau.com",
-    "vestnik@kazgau.com"
-   ],
-   "phones": [
-    "+7(917)888-44-86"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vestnik-kazgau.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: info@kazgau.com",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -4496,13 +4472,9 @@ window.FU_DATA = {
    "site": "https://vestnik.mgimo.ru/jour/index",
    "author_page": "https://vestnik.mgimo.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "vestnik@inno.mgimo.ru"
-   ],
-   "phones": [
-    "+7 495 439-70-10"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -4567,34 +4539,16 @@ window.FU_DATA = {
    "site": "http://www.vestnikmgsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "president@mgsu.ru"
-   ],
-   "phones": [
-    "+7 (495) 287-49-14",
-    "+7 (499) 678-28-83"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "http://www.vestnikmgsu.ru/"
-   },
-   "price_mentions": [
-    {
-     "text": "Публикация в журнале для авторов бесплатная .",
-     "url": "http://www.vestnikmgsu.ru/"
-    },
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "http://www.vestnikmgsu.ru/"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.vestnikmgsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: president@mgsu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -4730,13 +4684,9 @@ window.FU_DATA = {
    "site": "http://vestnik.mininuniver.ru/jour",
    "author_page": "http://vestnik.mininuniver.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "vestnik@mininuniver.ru"
-   ],
-   "phones": [
-    "+7 (831) 295-29-80"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -5122,7 +5072,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -5179,25 +5129,11 @@ window.FU_DATA = {
    "site": "https://msuecon.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "econ.msu.editor@gmail.com"
-   ],
-   "phones": [
-    "+7 (495) 939-28-82",
-    "81119466642"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://msuecon.elpub.ru/jour/about/submissions"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию рукописей не взимается.",
-     "url": "https://msuecon.elpub.ru/jour/about/submissions"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -6127,25 +6063,15 @@ window.FU_DATA = {
    "site": "https://fmp.elpub.ru/jour",
    "author_page": "https://fmp.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "vestnik.fmp@fmp.msu.ru",
-    "vestnik25@org.msu.ru"
-   ],
-   "phones": [
-    "+7 (495) 939-52-71"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://fmp.elpub.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию в «Вестнике Московского университета.",
-     "url": "https://fmp.elpub.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -6345,18 +6271,9 @@ window.FU_DATA = {
    "site": "https://vestnikmephi.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vestnik@mephi.ru",
-    "ced@maik.ru",
-    "mnstrikhanov@mephi.ru",
-    "nakudryashov@mephi.ru"
-   ],
-   "phones": [
-    "+7 (928) 909-75-11",
-    "+7 (495) 788 56 99",
-    "+7 (499) 324-11-81"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -6469,14 +6386,9 @@ window.FU_DATA = {
    "site": "https://nsuem.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vestnik@nsuem.ru",
-    "show@nsuem.ru",
-    "s444@ngs.ru",
-    "v.v.glinskij@nsuem.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -6705,16 +6617,9 @@ window.FU_DATA = {
    "site": "https://intechngu.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "jit.nsu@gmail.com",
-    "mmlavrentiev@gmail.com",
-    "bychkov@icc.ru",
-    "gbm@opg.sscc.ru"
-   ],
-   "phones": [
-    "+7 (383) 363-42-47"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -6776,28 +6681,15 @@ window.FU_DATA = {
    "site": "https://nguhist.elpub.ru/jour",
    "author_page": "https://nguhist.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "segorov752@gmail.com",
-    "philology@vestnik.nsu.ru",
-    "selin@epage.ru",
-    "avvarenov@mail.ru"
-   ],
-   "phones": [
-    "+7 (383) 363-42-26",
-    "8-7919-2020-19"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://nguhist.elpub.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "Плата с авторов за публикацию рукописей не взимается.",
-     "url": "https://nguhist.elpub.ru/jour"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 28 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -6855,11 +6747,9 @@ window.FU_DATA = {
    "site": "https://lingngu.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "lingua@vestnik.nsu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -6916,18 +6806,16 @@ window.FU_DATA = {
    "site": "https://herald-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vakilovan@omsu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://herald-journal.omsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: vakilovan@omsu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -6977,28 +6865,16 @@ window.FU_DATA = {
    "site": "https://history-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vesthist@mail.ru",
-    "spbychkov@mail.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://history-journal.omsu.ru/"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию не взимается.",
-     "url": "https://history-journal.omsu.ru/"
-    }
-   ],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://history-journal.omsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: vesthist@mail.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -7048,29 +6924,16 @@ window.FU_DATA = {
    "site": "https://law-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "omgu-vestnikpravo@mail.ru"
-   ],
-   "phones": [
-    "8 (3812) 63-21-20"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://law-journal.omsu.ru/rules"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата с авторов, в том числе аспирантов, за публикацию рукописей не взимается.",
-     "url": "https://law-journal.omsu.ru/rules"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://law-journal.omsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: omgu-vestnikpravo@mail.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -7120,18 +6983,16 @@ window.FU_DATA = {
    "site": "https://economic-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "economicsjournal@omsu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://economic-journal.omsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: economicsjournal@omsu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -7267,7 +7128,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -8265,36 +8126,11 @@ window.FU_DATA = {
    "site": "https://mathematics.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "zukovskys@mail.ru",
-    "ilina@tsutmb.ru",
-    "vbv57@inbox.ru",
-    "vladimir.b.vasilyev@gmail.com"
-   ],
-   "phones": [
-    "8(4752)72-34-34",
-    "+7(4752)72-34-34"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://mathematics.elpub.ru/jour/"
-   },
-   "price_mentions": [
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "https://mathematics.elpub.ru/jour/"
-    },
-    {
-     "text": "Все публикации в журнале бесплатны.",
-     "url": "https://mathematics.elpub.ru/jour/about/submissions"
-    },
-    {
-     "text": "Все публикации в электронном виде распространяются бесплатно.",
-     "url": "https://mathematics.elpub.ru/jour/about/submissions"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -9643,24 +9479,15 @@ window.FU_DATA = {
    "site": "https://vest.rea.ru/",
    "author_page": "https://vest.rea.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "izdatelstvo@rea.ru"
-   ],
-   "phones": [
-    "8 (495) 800-12-00"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://vest.rea.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Плата с аспирантов за публикацию рукописи не взимается.",
-     "url": "https://vest.rea.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -9960,12 +9787,9 @@ window.FU_DATA = {
    "site": "https://vestnik.sseu.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vestnik_sgeu@mail.ru",
-    "sgeu@mail.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -11162,35 +10986,13 @@ window.FU_DATA = {
    "site": "https://vestnik.sibsutis.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vestnik@sibguti.ru"
-   ],
-   "phones": [
-    "+7 (383) 269-39-38"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
-   },
-   "price_mentions": [
-    {
-     "text": "Также в ведении авторов находится выбор УДК для статьи (бесплатную консультацию по выбору УДК можно получить в библиотеке СибГУТИ).",
-     "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "После поступления статьи в редакцию, она проверяется в течение 7 дней, далее, если всё корректно передается на рецензирование.",
-     "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
-    },
-    {
-     "text": "Срок рецензирования - 1 месяц.",
-     "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vestnik.sibsutis.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -11243,13 +11045,9 @@ window.FU_DATA = {
    "site": "https://vestnik.sibadi.org",
    "author_page": "https://vestnik.sibadi.org/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "vestnik_sibadi@sibadi.org"
-   ],
-   "phones": [
-    "+7 (3812) 65-03-09"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -11260,12 +11058,7 @@ window.FU_DATA = {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Общий срок редакционной подготовки статьи, успешно прошедшей рецензирование, составляет 2 месяца в соответствии с периодичностью и графиком публикации выпусков.",
-     "url": "https://vestnik.sibadi.org/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vestnik.sibadi.org/jour/about/submissions",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -11318,21 +11111,14 @@ window.FU_DATA = {
    "author_page": "https://vestnik.sibsiu.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
    "emails": [],
-   "phones": [
-    "+7(3843)32-89-32"
-   ],
-   "site_ok": true,
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://vestnik.sibsiu.ru/jour/about/editorialPolicies#focusAndScope"
    },
-   "price_mentions": [
-    {
-     "text": "Публикация статей является бесплатной.",
-     "url": "https://vestnik.sibsiu.ru"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 4 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -11577,7 +11363,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -12409,23 +12195,18 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": "https://vestnik.msal.ru/jour/",
+   "site": null,
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "egbulychev@msal.ru"
-   ],
-   "phones": [
-    "8 (499) 244-88-88"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": null,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vestnik.msal.ru/jour/",
-    "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -12604,24 +12385,16 @@ window.FU_DATA = {
    "site": "https://www.chuvsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "priem@minobrnauki.gov.ru",
-    "office@chuvsu.ru",
-    "priemkom@chuvsu.ru"
-   ],
-   "phones": [
-    "8 800 444 51 15",
-    "+7 (8352) 45-02-79",
-    "+7 (8352) 45-21-24"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.chuvsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: priem@minobrnauki.gov.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -13377,40 +13150,16 @@ window.FU_DATA = {
    "site": "https://www.vmj.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "kusraev@smath.ru",
-    "agkusraev@mail.ru",
-    "rio@smath.ru"
-   ],
-   "phones": [
-    "+7(8672)23-00-54"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://www.vmj.ru/"
-   },
-   "price_mentions": [
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "https://www.vmj.ru/"
-    },
-    {
-     "text": "Публикации в журнале для авторов бесплатны.",
-     "url": "https://www.vmj.ru/toauthors.php"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Срок рассмотрения статей обычно не превышает 8 месяцев.",
-     "url": "https://www.vmj.ru/"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.vmj.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: kusraev@smath.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -14416,14 +14165,9 @@ window.FU_DATA = {
    "site": "https://www.linguamgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "info@vestnik-mgou.ru",
-    "sj@guppros.ru"
-   ],
-   "phones": [
-    "8 (495) 780-09-42"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -14481,14 +14225,9 @@ window.FU_DATA = {
    "site": "https://voprstat.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "voprstat@yandex.ru",
-    "nikiforov_on@infostat.ru"
-   ],
-   "phones": [
-    "+7 (495) 607-48-90"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -14851,13 +14590,9 @@ window.FU_DATA = {
    "site": "https://www.vopreco.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mail@vopreco.ru"
-   ],
-   "phones": [
-    "8 (499) 956-01-43"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -15072,14 +14807,9 @@ window.FU_DATA = {
    "site": "https://vovr.elpub.ru",
    "author_page": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "vovrus@inbox.ru",
-    "logos101@yandex.ru",
-    "bib@unn.ac.ru",
-    "bedbor@gmail.com"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -15090,20 +14820,7 @@ window.FU_DATA = {
     "text": "≈ 16 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Именно поэтому мы используем многоступенчатую систему рассмотрения представленных материалов и именно поэтому срок первичного рассмотрения рукописи составляет 60 дней с момента регистрации материала на портале vovr.elpub.ru.",
-     "url": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines"
-    },
-    {
-     "text": "Этап рецензирования может занимать от 20 до 90 дней.",
-     "url": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines"
-    },
-    {
-     "text": "Доработка статьи по результатам рецензирования должна быть выполнена авторами в течение 60 дней.",
-     "url": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vovr.elpub.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -15765,25 +15482,15 @@ window.FU_DATA = {
    "site": "https://upravlenie-uriu.ranepa.ru/jour",
    "author_page": "https://upravlenie-uriu.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "jurnal-uriu@ranepa.ru",
-    "jurnal-gmu-uriu@ranepa.ru"
-   ],
-   "phones": [
-    "+7 (863) 296-23-60"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "7000 RUB (APC, по данным DOAJ)",
     "src": "doaj",
     "url": "https://upravlenie-uriu.ranepa.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "За редакционно-издательскую подготовку взимается плата в размере 700 рублей за 1 страницу рукописи выполненной шрифтом Times New Roman, 14 кегль, межстрочный пробел – 1,5 интервала, поля по 2 см по периметру страницы, абзацный отступ – 1 см.",
-     "url": "https://upravlenie-uriu.ranepa.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 6 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -15840,25 +15547,11 @@ window.FU_DATA = {
    "site": "https://www.spajournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "e-journal@spa.msu.ru",
-    "office@spa.msu.ru",
-    "petrunin@spa.msu.ru",
-    "abarabashev@hse.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://www.spajournal.ru/jour/about/submissions"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию рукописей с авторов, в том числе аспирантов и соискателей, не взимается.",
-     "url": "https://www.spajournal.ru/jour/about/submissions"
-    }
-   ],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -15987,39 +15680,20 @@ window.FU_DATA = {
    "site": "https://religion.ranepa.ru/jour",
    "author_page": "https://religion.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "religion@ranepa.ru",
-    "sryzhakova@gmail.com",
-    "alexeyapp@yandex.ru",
-    "beglov.al@yandex.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://religion.ranepa.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "Авторские сборы: публикация в журнале для авторов бесплатна",
-     "url": "https://religion.ranepa.ru/jour"
-    },
-    {
-     "text": "Плата за публикации не взимается.",
-     "url": "https://religion.ranepa.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 50 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Срок публикации – 6–9 месяцев при условии прохождения рецензирования.",
-     "url": "https://religion.ranepa.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://religion.ranepa.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -16202,27 +15876,13 @@ window.FU_DATA = {
    "site": "https://humanities.fa.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "dvonegov@fa.ru"
-   ],
-   "phones": [
-    "8(499)553-10-74"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
-   "price_mentions": [
-    {
-     "text": "В качестве доводов приводятся два обстоятельства: во-первых, цифровой рубль не подлежит размещению на депозитных или накопительных счетах, что исключает пассивный доход в виде процентов; во-вторых, расплачиваясь им, нельзя будет получить кешбэк, а для многих россиян это важный фактор при выборе банка.",
-     "url": "https://humanities.fa.ru/jour/"
-    }
-   ],
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Максимальный срок рецензирования составляет не более 2 месяцев.",
-     "url": "https://humanities.fa.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://humanities.fa.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -16332,23 +15992,16 @@ window.FU_DATA = {
    "site": "http://zabvektor.com/?lang=en",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "rik@zabgu.ru",
-    "zab-nauka@mail.ru"
-   ],
-   "phones": [
-    "+7(3022)41-64-44",
-    "+7 (3022) 41-67-18",
-    "+7 924 385-68-01"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://zabvektor.com/?lang=en",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: rik@zabgu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -16851,16 +16504,22 @@ window.FU_DATA = {
    "site": "http://roii.ru/publications/dialogue",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": false,
+   "emails": [
+    "dialogue.time@yandex.ru",
+    "rosintell@mail.ru"
+   ],
+   "phones": [
+    "+7 (495) 954-44-89",
+    "+7 (495) 938-12-02"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://roii.ru/publications/dialogue",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: dialogue.time@yandex.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -17098,29 +16757,15 @@ window.FU_DATA = {
    "site": "https://discourse.elpub.ru/jour",
    "author_page": "https://discourse.elpub.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "discourse@etu.ru",
-    "discourse@etu.ru),"
-   ],
-   "phones": [
-    "+7 812 234-10-13"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://discourse.elpub.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикация в журнале для авторов бесплатна.",
-     "url": "https://discourse.elpub.ru/jour"
-    },
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "https://discourse.elpub.ru/jour"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -17255,13 +16900,9 @@ window.FU_DATA = {
    "site": "https://discussionj.ru/index.php/polemik/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "journal-discussion@mail.ru"
-   ],
-   "phones": [
-    "+7 (917) 4010889"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -17379,21 +17020,18 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": "http://hdl.handle.net/",
+   "site": null,
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "hdladmin@cnri.reston.va.us"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": null,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Изучите требования к оформлению и публикационную этику на сайте журнала: http://hdl.handle.net/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: hdladmin@cnri.reston.va.us",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -17647,14 +17285,9 @@ window.FU_DATA = {
    "site": "https://www.eijournal.ru/jour/index",
    "author_page": "https://www.eijournal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "eijournal@ranepa.ru",
-    "lysunets-ea@ranepa.ru",
-    "alexey@gromyko.ru",
-    "a-kozhoshev@mail.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -18663,9 +18296,14 @@ window.FU_DATA = {
    "site": "https://jfs.today",
    "author_page": "https://jfs.today/index.php/jfs/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": false,
+   "emails": [
+    "editorialboard.jsf@jfs.today",
+    "editorialboard.jsf@gmail.com"
+   ],
+   "phones": [
+    "+7 (988) 068-63-72"
+   ],
+   "site_ok": true,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -19297,14 +18935,9 @@ window.FU_DATA = {
    "site": "https://izvuzmath.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "izvuz.matem@kpfu.ru"
-   ],
-   "phones": [
-    "8 (843) 238-33-21",
-    "8 (843) 233-71-64"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -19360,16 +18993,9 @@ window.FU_DATA = {
    "site": "https://izvuz_gn_eng.pnzgu.ru/",
    "author_page": "https://izvuz_gn_eng.pnzgu.ru/page/12419",
    "rinc": true,
-   "emails": [
-    "volgavuz@pnzgu.ru",
-    "iic@pnzgu.ru",
-    "vicont37@yandex.ru"
-   ],
-   "phones": [
-    "+7 (8412) 64-32-89",
-    "89273928961"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -19383,7 +19009,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://izvuz_gn_eng.pnzgu.ru/page/12419",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: volgavuz@pnzgu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -19433,15 +19059,9 @@ window.FU_DATA = {
    "site": "https://izvuz_fmn_eng.pnzgu.ru/",
    "author_page": "https://izvuz_fmn_eng.pnzgu.ru/page/12411",
    "rinc": true,
-   "emails": [
-    "volgavuz@pnzgu.ru",
-    "iic@pnzgu.ru",
-    "physics@pnzgu.ru"
-   ],
-   "phones": [
-    "+7 (8412) 64-32-89"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -19455,7 +19075,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://izvuz_fmn_eng.pnzgu.ru/page/12411",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: volgavuz@pnzgu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -19734,7 +19354,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -20295,7 +19915,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -20980,31 +20600,11 @@ window.FU_DATA = {
    "site": "https://ecsocmenus.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "rio_kursk@mail.ru",
-    "rector@swsu.ru",
-    "bessonowa_new@mail.ru",
-    "abramov_ap@inbox.ru"
-   ],
-   "phones": [
-    "8 (4712) 22-25-26"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://ecsocmenus.elpub.ru/jour/"
-   },
-   "price_mentions": [
-    {
-     "text": "Публикация статей в журнале для авторов БЕСПЛАТНА.",
-     "url": "https://ecsocmenus.elpub.ru/jour/"
-    },
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "https://ecsocmenus.elpub.ru/jour/"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -21198,27 +20798,11 @@ window.FU_DATA = {
    "site": "https://www.izmt.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "izmt@vniims.ru",
-    "izmt@yandex.ru",
-    "elazarenko@rst.gov.ru",
-    "bel.vlad.i@yandex.ru"
-   ],
-   "phones": [
-    "8(495)781-48-70"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://www.izmt.ru/jour/"
-   },
-   "price_mentions": [
-    {
-     "text": "Публикация статей в журнале осуществляется бесплатно.",
-     "url": "https://www.izmt.ru/jour/"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -22087,29 +21671,13 @@ window.FU_DATA = {
    "site": "https://info.infojournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "info@infojournal.ru",
-    "readinfo@infojournal.ru",
-    "grigorsg@yandex.ru"
-   ],
-   "phones": [
-    "+7 (495) 140-1986"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
-   "price_mentions": [
-    {
-     "text": "Редакция не берет платы за публикацию рукописей.",
-     "url": "https://info.infojournal.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Сроки публикации статьи составляют от одного до шести месяцев в зависимости от темы статьи и общего количества статей в очереди на публикацию.",
-     "url": "https://info.infojournal.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://info.infojournal.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -22910,8 +22478,7 @@ window.FU_DATA = {
    "emails": [
     "shalakav@bgu.ru",
     "maid1960@mail.ru",
-    "akm882@ya.ru",
-    "journal_history@bgu.ru"
+    "akm882@ya.ru"
    ],
    "phones": [],
    "site_ok": true,
@@ -23515,18 +23082,16 @@ window.FU_DATA = {
    "site": "https://com-studies-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "terskikhmv@omsu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://com-studies-journal.omsu.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: terskikhmv@omsu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -23576,11 +23141,9 @@ window.FU_DATA = {
    "site": "https://www.communicology.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "nata.kirillina@gmail.com"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -23882,13 +23445,9 @@ window.FU_DATA = {
    "site": "https://www.ogt-journal.com/jour/index",
    "author_page": "https://www.ogt-journal.com/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "journal@centero.ru"
-   ],
-   "phones": [
-    "81475263415"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -25056,27 +24615,11 @@ window.FU_DATA = {
    "site": "https://matmess.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "zakevseev@gmail.com",
-    "zi.evseev@s-vfu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://matmess.elpub.ru/jour/"
-   },
-   "price_mentions": [
-    {
-     "text": "Публикации в журнале для авторов бесплатны.",
-     "url": "https://matmess.elpub.ru/jour/"
-    },
-    {
-     "text": "Плата за опубликование с авторов или учреждений, где работают авторы, не взимается, и опубликованные статьи не оплачиваются.",
-     "url": "https://matmess.elpub.ru/jour/about/submissions"
-    }
-   ],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -25193,7 +24736,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -25304,18 +24847,23 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "http://mediaalmanah.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": null,
+   "emails": [
+    "almanach@internet.ru"
+   ],
+   "phones": [
+    "+7 (495) 629-4440"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: http://mediaalmanah.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: almanach@internet.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -25430,14 +24978,9 @@ window.FU_DATA = {
    "site": "https://www.interanalytics.org/",
    "author_page": "https://www.interanalytics.org/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "gmbonham@maxwell.syr.edu",
-    "r_api@mail.ru"
-   ],
-   "phones": [
-    "80511862373"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -25558,33 +25101,13 @@ window.FU_DATA = {
    "site": "https://mttp.rea.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mttp@rea.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://mttp.rea.ru/jour/about/submissions"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию рукописи не взимается.",
-     "url": "https://mttp.rea.ru/jour/about/submissions"
-    }
-   ],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Срок публикации статей составляет около 180 дней, доля отклоненных рукописей достигает 45%.",
-     "url": "https://mttp.rea.ru/jour/"
-    },
-    {
-     "text": "Обращаем внимание, что в связи с высоким объёмом обращений срок публикации увеличен до 180 дней, а доля отклонённых рукописей достигает 45%.",
-     "url": "https://mttp.rea.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://mttp.rea.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -25914,13 +25437,9 @@ window.FU_DATA = {
    "site": "https://www.intertrends.ru/jour",
    "author_page": "http://intertrends.ru/en/for-authors/guidelines-and-styles",
    "rinc": true,
-   "emails": [
-    "review@intertrends.ru"
-   ],
-   "phones": [
-    "+7 495 401-10-90"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -25934,7 +25453,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://intertrends.ru/en/for-authors/guidelines-and-styles",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: review@intertrends.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -26262,24 +25781,16 @@ window.FU_DATA = {
    "site": "https://www.mba-journal.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mba-journal@ideg.ru",
-    "ideg@ideg.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Максимальный срок рецензирования – между датами поступления (варианта) рукописи в редакцию и вынесения редакционным советом решения – составляет 2 месяца.",
-     "url": "https://www.mba-journal.ru/authors/"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.mba-journal.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: mba-journal@ideg.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -26394,27 +25905,11 @@ window.FU_DATA = {
    "site": "https://mech.novtex.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mech@novtex.ru",
-    "nbfilimonov@mail.ru",
-    "aabolshakov57@gmail.com",
-    "arkadyus@mail.ru"
-   ],
-   "phones": [
-    "+7 (499) 270-16-52"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://mech.novtex.ru/jour/about/submissions"
-   },
-   "price_mentions": [
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "https://mech.novtex.ru/jour/about/submissions"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -26649,24 +26144,15 @@ window.FU_DATA = {
    "site": "http://wne.fa.ru/jour",
    "author_page": "http://wne.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "julia.an@mail.ru"
-   ],
-   "phones": [
-    "8(499)553-10-74"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://wne.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикация в журнале для авторов бесплатная: плата за подготовку, размещение и печать материалов не взимается.",
-     "url": "http://wne.fa.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -27055,41 +26541,20 @@ window.FU_DATA = {
    "site": "http://www.mir-nayka.com",
    "author_page": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "mir@spa.msu.ru",
-    "voronov@spa.msu.ru",
-    "nivashenko@mail.ru",
-    "komkov_ni@mail.ru"
-   ],
-   "phones": [
-    "+7 (495) 930-85-71"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.mir-nayka.com/jour/about/editorialPolicies#custom-6"
    },
-   "price_mentions": [
-    {
-     "text": "Статьи публикуются бесплатно.",
-     "url": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines"
-    },
-    {
-     "text": "Редакция не взимает с авторов плату за подготовку статьи к публикации, размещение и печать материалов.",
-     "url": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 11 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "время от принятия статьи до готовности к публикации – от 90 дней",
-     "url": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.mir-nayka.com/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -27275,16 +26740,9 @@ window.FU_DATA = {
    "site": "https://mss_eng.pnzgu.ru/",
    "author_page": "https://mss_eng.pnzgu.ru/Manuscript_preparation_guidelines",
    "rinc": true,
-   "emails": [
-    "mss@pnzgu.ru",
-    "iic@pnzgu.ru",
-    "gsm@pnzgu.ru"
-   ],
-   "phones": [
-    "+7 (8412) 99-81-75",
-    "8 (8412) 99-81-75"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -27298,7 +26756,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://mss_eng.pnzgu.ru/Manuscript_preparation_guidelines",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: mss@pnzgu.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -27349,22 +26807,15 @@ window.FU_DATA = {
    "site": "http://mais-journal.ru/",
    "author_page": "http://mais-journal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "mais@uniyar.ac.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://mais-journal.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию: отсутствие APC (Article Processing Charges)",
-     "url": "http://mais-journal.ru/"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -27588,13 +27039,9 @@ window.FU_DATA = {
    "site": "https://www.mjil.ru",
    "author_page": "https://www.mjil.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "mjil@inno.mgimo.ru"
-   ],
-   "phones": [
-    "+7 495-229-38-23"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -27658,13 +27105,9 @@ window.FU_DATA = {
    "site": "https://www.mpjournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "sj@guppros.ru"
-   ],
-   "phones": [
-    "8 (495) 780-09-42"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -27721,13 +27164,9 @@ window.FU_DATA = {
    "site": "https://www.lawmgoujournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "sj@guppros.ru"
-   ],
-   "phones": [
-    "8 (495) 780-09-42"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -27849,33 +27288,16 @@ window.FU_DATA = {
    "site": "http://narodnoe.org/journals/narodnoe-obrazovanie/info",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "narob@yandex.ru",
-    "no.podpiska@yandex.ru",
-    "podpiska@narodnoe.org"
-   ],
-   "phones": [
-    "8 2019 2020 20",
-    "+7 (495) 345-52-00",
-    "+7 (495) 345-59-00"
-   ],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://narodnoe.org/avtoram"
-   },
-   "price_mentions": [
-    {
-     "text": "Размещение публикаций бесплатное.",
-     "url": "https://narodnoe.org/avtoram"
-    }
-   ],
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://narodnoe.org/journals/narodnoe-obrazovanie/info",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: narob@yandex.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -28773,16 +28195,9 @@ window.FU_DATA = {
    "site": "https://scires.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "sr.econ.msu@gmail.com",
-    "tutov@econ.msu.ru",
-    "l.tutov@yandex.ru",
-    "auzan@inp.ru"
-   ],
-   "phones": [
-    "+7 4959395942"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -28835,18 +28250,23 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://veorus.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": null,
+   "emails": [
+    "info@veorus.ru"
+   ],
+   "phones": [
+    "8 495 609-07-60"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://veorus.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: info@veorus.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -29051,40 +28471,20 @@ window.FU_DATA = {
    "site": "https://www.nauka-dialog.ru/",
    "author_page": "https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "nauka-dialog@mail.ru",
-    "editor@nauka-dialog.ru",
-    "anna-73.schetinina@yandex.ru"
-   ],
-   "phones": [
-    "89122492821"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "26000 RUB (APC, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.nauka-dialog.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "Автор ознакомлен с типом журнала (open access – открытый доступ) и стоимостью размещения в открытом доступе - 35 000 руб.",
-     "url": "https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Сроки публикации 4—10 месяцев.",
-     "url": "https://www.nauka-dialog.ru/"
-    },
-    {
-     "text": "Рецензирование проводится в срок 60—120 дней.",
-     "url": "https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -29359,21 +28759,16 @@ window.FU_DATA = {
    "site": "https://www.fin-izdat.com/journal/national/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "post@fin-izdat.ru"
-   ],
-   "phones": [
-    "+7 925 966 4690",
-    "+7 (925) 966 4690"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.fin-izdat.com/journal/national/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: post@fin-izdat.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -29581,16 +28976,38 @@ window.FU_DATA = {
    "site": "http://lll21.petrsu.ru",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "babakova@petrsu.ru",
+    "i.a.kolesnikova@yandex.ru",
+    "lll21@petrsu.ru"
+   ],
    "phones": [],
-   "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "site_ok": true,
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "http://lll21.petrsu.ru"
+   },
+   "price_mentions": [
+    {
+     "text": "Научные публикации бесплатны для авторов и размещаются в сети в открытом доступе.",
+     "url": "http://lll21.petrsu.ru"
+    },
+    {
+     "text": "Публикации в журнале «Непрерывное образование: XXI век» являются бесплатными для авторов.",
+     "url": "http://lll21.petrsu.ru/user/addarticle.php"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рецензирования статьи составляет 3 месяца с момента поступления статьи.",
+     "url": "http://lll21.petrsu.ru/user/addarticle.php"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://lll21.petrsu.ru",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: babakova@petrsu.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -29649,21 +29066,16 @@ window.FU_DATA = {
    "site": "http://oil-industry.ru",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mail@oil-industry.ru",
-    "mail@oik-industry.ru"
-   ],
-   "phones": [
-    "+7(495) 247-50-90"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://oil-industry.ru",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: mail@oil-industry.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -30012,13 +29424,9 @@ window.FU_DATA = {
    "site": "https://www.observer-journal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "observer-rau@yandex.ru"
-   ],
-   "phones": [
-    "8-495-951-22-25"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -30101,16 +29509,9 @@ window.FU_DATA = {
    "site": "http://www.edscience.ru/",
    "author_page": "http://www.edscience.ru/index.php/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "00000@mail.ru",
-    "kafedrappr@mail.ru",
-    "abdyrov@rambler.ru",
-    "angelides.p@unic.ac.cy"
-   ],
-   "phones": [
-    "+7 343 211 19 73"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "47500 RUB (APC, по данным DOAJ)",
     "src": "doaj",
@@ -30724,13 +30125,9 @@ window.FU_DATA = {
    "site": "https://www.philologymgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "info@vestnik-mgou.ru"
-   ],
-   "phones": [
-    "8 (495) 780-09-42"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -30787,17 +30184,9 @@ window.FU_DATA = {
    "site": "http://openedu.rea.ru/",
    "author_page": "http://openedu.rea.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "egorova.ea@rea.ru",
-    "telnov.yuf@rea.ru",
-    "boytchenko.av@rea.ru",
-    "trembach@postman.ru"
-   ],
-   "phones": [
-    "+7-495-237-83-31",
-    "+7-495-958-29-10"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -31038,7 +30427,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -31746,14 +31135,9 @@ window.FU_DATA = {
    "site": "https://mgimopravo.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mgimo.pravo@mail.ru",
-    "vberezko@yandex.ru"
-   ],
-   "phones": [
-    "+7 (495) 439-74-72"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -32032,27 +31416,15 @@ window.FU_DATA = {
    "site": "http://enforcement.omsu.ru/jour",
    "author_page": "http://enforcement.omsu.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "omsk.ler@gmail.com",
-    "omsk.post@gmail.com",
-    "maslov.omsu@gmail.com",
-    "olga8986@mail.ru"
-   ],
-   "phones": [
-    "+7 3812 22 59 54"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://enforcement.omsu.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Плата с авторов за публикацию не взимается.",
-     "url": "http://enforcement.omsu.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -32163,18 +31535,27 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://lawinfo.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": null,
+   "emails": [
+    "avtor@lawinfo.ru",
+    "avtor@lawinfo.ru\\",
+    "gruchkina@fa.ru"
+   ],
+   "phones": [
+    "+7 (495) 953-91-08",
+    "8(495)951-88-28",
+    "8(495)953-91-08"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://lawinfo.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtor@lawinfo.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -32834,9 +32215,11 @@ window.FU_DATA = {
    "site": "http://issuesofanalysis.petrsu.ru/",
    "author_page": "http://issuesofanalysis.petrsu.ru/info/page.php?id=312&lang=en",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "issuesofanalysis@gmail.com"
+   ],
    "phones": [],
-   "site_ok": false,
+   "site_ok": true,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -32850,7 +32233,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://issuesofanalysis.petrsu.ru/info/page.php?id=312&lang=en",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: issuesofanalysis@gmail.com",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -32900,20 +32283,16 @@ window.FU_DATA = {
    "site": "https://www.risk-journal.com",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "parjournal@mail.ru"
-   ],
-   "phones": [
-    "+7 (495) 287-73-05"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.risk-journal.com",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: parjournal@mail.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -33341,11 +32720,9 @@ window.FU_DATA = {
    "site": "http://www.postsovietarea.com",
    "author_page": "http://www.postsovietarea.com/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "postsowetskoe.prostranstvo@yandex.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -33990,7 +33367,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -35344,18 +34721,19 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://devter.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": null,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://devter.elpub.ru/jour/",
+    "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -35563,31 +34941,16 @@ window.FU_DATA = {
    "site": "http://www.fin-izdat.ru/journal/region/about.php",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "post@fin-izdat.ru"
-   ],
-   "phones": [
-    "+7 (925) 966 4690",
-    "+7 (925) 966-4690"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
-   "price_mentions": [
-    {
-     "text": "Стоимость размещения статьи в открытом доступе для журнала см.",
-     "url": "http://www.fin-izdat.ru/journal/region/about.php"
-    }
-   ],
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Срок рецензирования рукописей не должен превышать 30 календарных дней с момента направления рукописи рецензенту.",
-     "url": "http://www.fin-izdat.ru/authors/regulations/"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.fin-izdat.ru/journal/region/about.php",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: post@fin-izdat.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -35634,19 +34997,42 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": "http://www.re.volsu.ru/",
+   "site": "https://re.volsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "president@volsu.ru",
+    "mitrofanova@volsu.ru",
+    "labser@volsu.ru",
+    "rector@volsu.ru"
+   ],
+   "phones": [
+    "8(8442) 40-55-50",
+    "8(8442) 46-02-76",
+    "8(8442) 46-18-48"
+   ],
    "site_ok": true,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://re.volsu.ru/for-author/"
+   },
+   "price_mentions": [
+    {
+     "text": "публикация статей бесплатна.",
+     "url": "https://re.volsu.ru/for-author/"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рецензирования – 4 недели.",
+     "url": "https://re.volsu.ru/for-author/"
+    }
+   ],
    "how_to_submit": [
-    "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.re.volsu.ru/",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://re.volsu.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: president@volsu.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -35838,14 +35224,9 @@ window.FU_DATA = {
    "site": "https://risk-online.ru/index.php/risk",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "itkorbook@mail.ru"
-   ],
-   "phones": [
-    "+7(916) 032-26-25",
-    "+7 (916) 032-26-25"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -36636,25 +36017,16 @@ window.FU_DATA = {
    "site": "http://www.re-j.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "shafranskaya.a@mfua.ru"
-   ],
-   "phones": [
-    "+7-953-740-66-79"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Максимальный срок рецензирования – между датами поступления (варианта) рукописи в редакцию и вынесения редколлегией решения – составляет 2 месяца.",
-     "url": "http://www.re-j.ru/for_authors/"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.re-j.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: shafranskaya.a@mfua.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -38193,12 +37565,9 @@ window.FU_DATA = {
    "site": "https://sibphil.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "philos@vestnik.nsu.ru",
-    "diev@smile.nsu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -38326,14 +37695,9 @@ window.FU_DATA = {
    "site": "https://www.siberianlawreview.ru/",
    "author_page": "https://www.siberianlawreview.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "nauka@siblu.ru/",
-    "nauka@siblu.ru",
-    "rector@siblu.ru",
-    "ol_beketov@mail.ru,"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -38534,18 +37898,17 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": "http://www.ipiran.ru/journal_system/",
+   "site": null,
    "author_page": null,
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": false,
+   "site_ok": null,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.ipiran.ru/journal_system/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
@@ -38974,13 +38337,9 @@ window.FU_DATA = {
    "site": "https://www.moderncompetition.ru/",
    "author_page": "https://www.moderncompetition.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "evlasova@synergy.ru"
-   ],
-   "phones": [
-    "+7 495 987-43-74"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -39202,18 +38561,26 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://top-technologies.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": null,
+   "emails": [
+    "edition@rae.ru",
+    "edition&#64;rae.ru",
+    "control&#64;rae.ru",
+    "support@rae.ru"
+   ],
+   "phones": [
+    "+7 (499) 705-72-30"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://top-technologies.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: edition@rae.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -39263,13 +38630,9 @@ window.FU_DATA = {
    "site": "https://www.philosmgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "sj@guppros.ru"
-   ],
-   "phones": [
-    "8 (495) 780-09-42"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -39585,6 +38948,7 @@ window.FU_DATA = {
    "author_page": null,
    "rinc": true,
    "emails": [
+    "east-west-law@inno.mgimo.ru",
     "avtor@lawinfo.ru",
     "avtor@lawinfo.ru\\",
     "gruchkina@fa.ru"
@@ -39601,7 +38965,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://lawinfo.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtor@lawinfo.ru",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: east-west-law@inno.mgimo.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -40091,28 +39455,15 @@ window.FU_DATA = {
    "site": "https://socofpower.ranepa.ru/",
    "author_page": "https://socofpower.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "soc.of.power@gmail.com",
-    "anton.smolkin@gmail.com",
-    "asterius@gmail.com"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://socofpower.ranepa.ru/"
    },
-   "price_mentions": [
-    {
-     "text": "Авторские сборы: публикация в журнале для авторов бесплатна",
-     "url": "https://socofpower.ranepa.ru/"
-    },
-    {
-     "text": "Публикация является бесплатной.",
-     "url": "https://socofpower.ranepa.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -40339,36 +39690,20 @@ window.FU_DATA = {
    "site": "https://siv.ranepa.ru/jour/",
    "author_page": "https://siv.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "socium-i-vlast-ion@ranepa.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://siv.ranepa.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию: публикация в журнале для всех авторов бесплатная.",
-     "url": "https://siv.ranepa.ru/jour/"
-    },
-    {
-     "text": "Плата за рецензирование и публикацию рукописей не взимается.",
-     "url": "https://siv.ranepa.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Решение о публикации направленных в журнал материалов принимается в течение 3 месяцев со дня получения рукописи в редакции с учетом времени на устранение замечаний.",
-     "url": "https://siv.ranepa.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://siv.ranepa.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -40479,11 +39814,9 @@ window.FU_DATA = {
    "site": "https://www.sravpol.ru/jour/index",
    "author_page": "https://www.sravpol.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "sravpol@inno.mgimo.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -40755,16 +40088,9 @@ window.FU_DATA = {
    "site": "http://statecon.rea.ru/",
    "author_page": "http://statecon.rea.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "egorova.ea@rea.ru",
-    "minashkin.vg@rea.ru",
-    "anikeeva.ei@rea.ru"
-   ],
-   "phones": [
-    "+7-495-237-83-31",
-    "+7-495-958-29-10"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -40828,34 +40154,20 @@ window.FU_DATA = {
    "site": "http://www.jsdrm.ru",
    "author_page": "http://www.jsdrm.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "info@jsdrm.ru"
-   ],
-   "phones": [
-    "+7 (812) 346-50-15"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.jsdrm.ru/jour/about/editorialPolicies#custom-5"
    },
-   "price_mentions": [
-    {
-     "text": "Статьи принимаются бесплатно.",
-     "url": "http://www.jsdrm.ru"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Сроки рецензирования статей определяются главным редактором журнала с учетом условия максимально оперативного ответа автору публикации и составляют не более 30 рабочих дней со дня их поступления к рецензенту.",
-     "url": "http://www.jsdrm.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.jsdrm.ru/jour/about/submissions",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -41437,7 +40749,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -41675,17 +40987,18 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "http://www.igpran.ru/",
    "author_page": null,
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": null,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.igpran.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
@@ -41811,18 +41124,38 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://trudy.ruslang.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": null,
-   "price": null,
-   "price_mentions": [],
+   "emails": [
+    "ruslang@ruslang.ru"
+   ],
+   "phones": [
+    "+7 495) 695-26-60",
+    "+7 (495) 695-26-60"
+   ],
+   "site_ok": true,
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://trudy.ruslang.ru/ru/author_guidelines"
+   },
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале бесплатна для всех авторов.",
+     "url": "https://trudy.ruslang.ru/ru/author_guidelines"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рецензирования составляет 3-4 недели, однако он может быть продлен по просьбе рецензента.",
+     "url": "https://trudy.ruslang.ru/ru/author_guidelines"
+    }
+   ],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://trudy.ruslang.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: ruslang@ruslang.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -41930,13 +41263,9 @@ window.FU_DATA = {
    "site": "https://ispranproceedings.elpub.ru/jour/index",
    "author_page": "https://ispranproceedings.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "proceedings@ispras.ru"
-   ],
-   "phones": [
-    "+7-495-912-44-25"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -42133,7 +41462,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -42187,18 +41516,19 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://tuzs.sut.ru/jour/",
    "author_page": null,
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": null,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://tuzs.sut.ru/jour/",
+    "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -42438,29 +41768,15 @@ window.FU_DATA = {
    "site": "https://www.umj.ru/jour",
    "author_page": "https://www.umj.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "publishing@umj.ru"
-   ],
-   "phones": [
-    "+7(343) 371-56-04",
-    "+7 912 640-38-22"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.umj.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Плата за публикации не взимается.",
-     "url": "https://www.umj.ru/jour"
-    },
-    {
-     "text": "Доступность : публикация в журнале является бесплатной .",
-     "url": "https://www.umj.ru/jour"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 10 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -42587,10 +41903,8 @@ window.FU_DATA = {
    "author_page": "https://upravlenie.guu.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
    "emails": [],
-   "phones": [
-    "+7 (495) 377-90-05"
-   ],
-   "site_ok": true,
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -42655,33 +41969,16 @@ window.FU_DATA = {
    "site": "http://ubs.mtas.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "avgorbunova@bk.ru",
-    "novikov@ipu.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "http://ubs.mtas.ru/authors/avtors.php"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата с авторов за публикацию рукописей не взимается.",
-     "url": "http://ubs.mtas.ru/authors/avtors.php"
-    }
-   ],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Время опубликования принятой к публикации статьи - 3-4 месяца.",
-     "url": "http://ubs.mtas.ru/authors/avtors.php"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://ubs.mtas.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avgorbunova@bk.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -42882,25 +42179,15 @@ window.FU_DATA = {
    "site": "https://managementscience.fa.ru",
    "author_page": "https://managementscience.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "sfmihajlova@fa.ru",
-    "uprnauki@mail.ru"
-   ],
-   "phones": [
-    "+7 (499) 553-10-84"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://managementscience.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикация в журнале для авторов бесплатная: плата за подготовку, размещение и печать материалов не взимается.",
-     "url": "https://managementscience.fa.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -42958,15 +42245,9 @@ window.FU_DATA = {
    "site": "http://acjournal.ru",
    "author_page": "https://www.acjournal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "acjournal@ranepa.ru",
-    "vanya2008@mail.ru"
-   ],
-   "phones": [
-    "+7 (812) 335-42-10",
-    "+7(812) 335-94-94"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -43233,7 +42514,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -43538,18 +42819,24 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://scientific-letters.ru/index.php/SLIPRAS/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": null,
+   "emails": [
+    "scientificnotesipras@gmail.com",
+    "solovovana@gmail.com"
+   ],
+   "phones": [
+    "+7(926)5552687"
+   ],
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://scientific-letters.ru/index.php/SLIPRAS/",
+    "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -43599,14 +42886,9 @@ window.FU_DATA = {
    "site": "https://uzakugu.elpub.ru/jour/index?locale=en_US#",
    "author_page": "https://uzakugu.elpub.ru/jour/about/submissions?locale=en_US#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "l.a.v.e.90@mail.ru"
-   ],
-   "phones": [
-    "8(937)529-44-77",
-    "89375294477"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -43688,15 +42970,9 @@ window.FU_DATA = {
    "site": "https://uzakufismat.elpub.ru/jour/index?locale=en_US#",
    "author_page": "https://uzakufismat.elpub.ru/jour/about/submissions?locale=en_US#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "dmitry.tayurskii@kpfu.ru",
-    "uz.ku@kpfu.ru"
-   ],
-   "phones": [
-    "+7 (843) 206-54-41",
-    "+7 903 305-06-08"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -43757,19 +43033,33 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": "https://uchzap.petrsu.ru/",
+   "site": "http://uchzap.petrsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "uchzap@petrsu.ru",
+    "vasyural@mail.r",
+    "zakharov@rfh.ru",
+    "surenzolyan@gmail.com"
+   ],
    "phones": [],
-   "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "site_ok": true,
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "http://uchzap.petrsu.ru/info/page.php?id=7"
+   },
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале бесплатна.",
+     "url": "http://uchzap.petrsu.ru/info/page.php?id=7"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://uchzap.petrsu.ru/",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: http://uchzap.petrsu.ru/",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: uchzap@petrsu.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -43881,26 +43171,15 @@ window.FU_DATA = {
    "site": "https://accounting.fa.ru",
    "author_page": "https://accounting.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "an5er@mail.ru"
-   ],
-   "phones": [
-    "+7 (499) 553-10-84",
-    "8-9303-2026-13",
-    "8-9303-2025-12"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://accounting.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикация в журнале для авторов бесплатная: плата за подготовку, размещение и печать материалов не взимается.",
-     "url": "https://accounting.fa.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -44627,18 +43906,16 @@ window.FU_DATA = {
    "site": "https://www.phisci.info",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "academyrh@list.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.phisci.info",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: academyrh@list.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -45118,36 +44395,20 @@ window.FU_DATA = {
    "site": "http://financetp.fa.ru/",
    "author_page": "http://financetp.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "isdovgal@fa.ru",
-    "vestnikfinu@mail.ru",
-    "sfmihajlova@fa.ru"
-   ],
-   "phones": [
-    "+7 (499) 553-10-71"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://financetp.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "http://financetp.fa.ru/jour/about/submissions"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Максимальный срок рецензирования 1–2 месяца.",
-     "url": "http://financetp.fa.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://financetp.fa.ru/jour/about/submissions",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -45443,6 +44704,7 @@ window.FU_DATA = {
    "author_page": null,
    "rinc": true,
    "emails": [
+    "east-west-law@inno.mgimo.ru",
     "avtor@lawinfo.ru",
     "avtor@lawinfo.ru\\",
     "gruchkina@fa.ru"
@@ -45459,7 +44721,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://lawinfo.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtor@lawinfo.ru",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: east-west-law@inno.mgimo.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -45568,7 +44830,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -45713,11 +44975,9 @@ window.FU_DATA = {
    "site": "https://www.digitallawjournal.org/",
    "author_page": "https://www.digitallawjournal.org/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "dlj@digitallawjournal.org"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -45832,25 +45092,11 @@ window.FU_DATA = {
    "site": "https://www.chebsbornik.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "cheb@tspu.tula.ru",
-    "cheb@tsput.ru",
-    "chubarik2009@live.ru",
-    "dobrovol@tspu.tula.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
-   "price": {
-    "text": "Бесплатно (по данным сайта журнала)",
-    "src": "site",
-    "url": "https://www.chebsbornik.ru/jour/"
-   },
-   "price_mentions": [
-    {
-     "text": "Плата за публикацию и редакционную подготовку статей с авторов не взимается.",
-     "url": "https://www.chebsbornik.ru/jour/"
-    }
-   ],
+   "site_ok": false,
+   "price": null,
+   "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -45964,18 +45210,19 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://haed.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": null,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://haed.elpub.ru/jour/",
+    "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -46279,7 +45526,6 @@ window.FU_DATA = {
     "eco@ieie.nsc.ru"
    ],
    "phones": [
-    "+7 383 330 69 35",
     "8 (383) 330-69-35",
     "8 (383) 330-69-25"
    ],
@@ -46542,17 +45788,9 @@ window.FU_DATA = {
    "site": "https://www.ecology-kalvis.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "ecip1996@yandex.ru",
-    "info@kalvis.ru",
-    "noskov@catalysis.ru",
-    "pogodkina.ecip@catalysis.ru"
-   ],
-   "phones": [
-    "+7(963) 664-77-65",
-    "+7(495) 913-80-94"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -46667,16 +45905,9 @@ window.FU_DATA = {
    "site": "https://emjume.elpub.ru/",
    "author_page": "https://emjume.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "izdat-ime@yandex.ru",
-    "zdat-ime@yandex.ru",
-    "rector@spbume.ru",
-    "v.kunin50@yandex.ru"
-   ],
-   "phones": [
-    "+7 (812) 449-08-33"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "15300 RUB (APC, по данным DOAJ)",
     "src": "doaj",
@@ -46739,22 +45970,15 @@ window.FU_DATA = {
    "site": "http://ecna.elpub.ru/jour",
    "author_page": "http://ecna.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "ecna@ranepa.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://ecna.elpub.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Экономика науки поддерживает алмазный открытый доступ (бесплатная подача и чтение), двойное слепое рецензирование и поощряет разнообразие авторов по географическим регионам, стадиям карьеры и применяемым методологиям.",
-     "url": "http://ecna.elpub.ru/jour"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -46812,32 +46036,13 @@ window.FU_DATA = {
    "site": "https://ecoprom.misis.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "ecoprom.misis@mail.ru",
-    "ecoprom@misis.ru"
-   ],
-   "phones": [
-    "+7 (499) 236-16-87"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
-   "price_mentions": [
-    {
-     "text": "С редакционной политикой в части оплаты публикаций можно ознакомиться по ссылке: https://ecoprom.misis.ru/jour/about/editorialPolicies#custom-4",
-     "url": "https://ecoprom.misis.ru/jour/"
-    }
-   ],
+   "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "2.1 Первичное рецензирование (2-4 недели).",
-     "url": "https://ecoprom.misis.ru/jour/about/submissions"
-    },
-    {
-     "text": "2.2 Вторичное рецензирование (1-2 недели).",
-     "url": "https://ecoprom.misis.ru/jour/about/submissions"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://ecoprom.misis.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -46973,21 +46178,16 @@ window.FU_DATA = {
    "site": "http://esxr.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "agro2018@mail.ru",
-    "serg1784@mail.ru",
-    "zasratyan@yahoo.com",
-    "korotp@bk.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://esxr.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: agro2018@mail.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -47293,27 +46493,16 @@ window.FU_DATA = {
    "site": "http://xn----8sberiayke3ai0ax4i.xn--p1ai/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "science@vniiesh.ru"
-   ],
-   "phones": [
-    "8 (495) 100-00-00",
-    "8 (495) 100-00-11",
-    "8 (499) 195-30-97"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [
-    {
-     "text": "Сроки рецензирования составляют до 2 месяцев со дня получения редакцией рукописи.",
-     "url": "http://xn----8sberiayke3ai0ax4i.xn--p1ai/page/3"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://xn----8sberiayke3ai0ax4i.xn--p1ai/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: science@vniiesh.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -47439,13 +46628,9 @@ window.FU_DATA = {
    "site": "https://etl.fa.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "vashadrin@fa.ru"
-   ],
-   "phones": [
-    "8 (499) 553-10-72"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -47657,23 +46842,16 @@ window.FU_DATA = {
    "site": "https://www.ecr-journal.ru",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "ecr-ras@yandex.ru",
-    "maev1941@bk.ru",
-    "rybachuk@cemi.rssi.ru"
-   ],
-   "phones": [
-    "+7 (925) 712 29 35",
-    "+7 (499) 724 21 39"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.ecr-journal.ru",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: ecr-ras@yandex.ru",
+    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -47737,16 +46915,9 @@ window.FU_DATA = {
    "site": "https://www.ecpolicy.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "mail@ecpolicy.ru",
-    "dsm@iep.ru",
-    "aganbegyan@ranepa.ru",
-    "marek.dabrowski@case-research.eu"
-   ],
-   "phones": [
-    "+7 (495) 691-77-21"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -49144,6 +48315,7 @@ window.FU_DATA = {
    "author_page": null,
    "rinc": true,
    "emails": [
+    "east-west-law@inno.mgimo.ru",
     "avtor@lawinfo.ru",
     "avtor@lawinfo.ru\\",
     "gruchkina@fa.ru"
@@ -49160,7 +48332,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://lawinfo.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtor@lawinfo.ru",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: east-west-law@inno.mgimo.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -49210,6 +48382,7 @@ window.FU_DATA = {
    "author_page": null,
    "rinc": true,
    "emails": [
+    "east-west-law@inno.mgimo.ru",
     "avtor@lawinfo.ru",
     "avtor@lawinfo.ru\\",
     "gruchkina@fa.ru"
@@ -49226,7 +48399,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://lawinfo.ru/",
-    "Отправьте рукопись и сопроводительные документы на e-mail редакции: avtor@lawinfo.ru",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: east-west-law@inno.mgimo.ru",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -49336,35 +48509,20 @@ window.FU_DATA = {
    "site": "https://www.japanjournal.ru/jour/index",
    "author_page": "https://www.japanjournal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "japanstudiesinrussia@gmail.com",
-    "lexyana@ya.ru"
-   ],
-   "phones": [
-    "+7 (499) 124-06-01"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.japanjournal.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [
-    {
-     "text": "Подача, рецензирование, редактирование и публикация статей в журнале являются бесплатными.",
-     "url": "https://www.japanjournal.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "Максимальный срок рассмотрения обращения не может превышать три месяца.",
-     "url": "https://www.japanjournal.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.japanjournal.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -49842,24 +49000,15 @@ window.FU_DATA = {
    "site": "http://www.bricslawjournal.com",
    "author_page": "http://www.bricslawjournal.com/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "bricslaw@gmail.com"
-   ],
-   "phones": [
-    "+79044929060"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://www.bricslawjournal.com/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "The BRICS Law Journal is an open-access journal with no publication fees for authors.",
-     "url": "http://www.bricslawjournal.com/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -50328,18 +49477,13 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://e-management.guu.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикации для авторов бесплатны.",
-     "url": "https://e-management.guu.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -50711,7 +49855,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -50850,7 +49994,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -51172,11 +50316,9 @@ window.FU_DATA = {
    "site": "https://kulawr.msal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [
-    "kulawr@msal.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -51311,7 +50453,7 @@ window.FU_DATA = {
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
@@ -51717,12 +50859,9 @@ window.FU_DATA = {
    "site": "https://kigiran.elpub.ru/",
    "author_page": "https://kigiran.elpub.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [
-    "kncran@yandex.ru",
-    "badmav07@yandex.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "28000 RUB (APC, по данным DOAJ)",
     "src": "doaj",
@@ -52034,9 +51173,14 @@ window.FU_DATA = {
    "site": "http://psychologyinrussia.com/",
    "author_page": "http://psychologyinrussia.com/for-authors/",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "psychologyinrussia@gmail.com",
+    "nancyspannaus@comcast.net",
+    "iv.konovalov@yandex.ru",
+    "profrean@yandex.ru"
+   ],
    "phones": [],
-   "site_ok": false,
+   "site_ok": true,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -52050,7 +51194,7 @@ window.FU_DATA = {
    "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://psychologyinrussia.com/for-authors/",
-    "Подайте рукопись в редакцию способом, указанным на сайте журнала",
+    "Отправьте рукопись и сопроводительные документы на e-mail редакции: psychologyinrussia@gmail.com",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
    "notes": null,
@@ -52353,13 +51497,9 @@ window.FU_DATA = {
    "site": "https://rbes.fa.ru",
    "author_page": "https://rbes.fa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "ambotchkarev@fa.ru"
-   ],
-   "phones": [
-    "8 (499) 553-10-74"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -52440,13 +51580,9 @@ window.FU_DATA = {
    "site": "https://www.japanreview.ru/jour",
    "author_page": "https://www.japanreview.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "japanstudiesinrussia@gmail.com"
-   ],
-   "phones": [
-    "+7 495 124 06 01"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
@@ -52598,23 +51734,15 @@ window.FU_DATA = {
    "site": "https://www.rusjel.ru",
    "author_page": "https://www.rusjel.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    " rusjel@ieml.ru",
-    "rusjel@ieml.ru"
-   ],
+   "emails": [],
    "phones": [],
-   "site_ok": true,
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.rusjel.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикации бесплатны как для авторов, так и для читателей (Platinum Open Access).",
-     "url": "https://www.rusjel.ru"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -53049,45 +52177,20 @@ window.FU_DATA = {
    "site": "https://www.rtj-mirea.ru",
    "author_page": "https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [
-    "seredina@mirea.ru",
-    "sigov@mirea.ru",
-    "rector@mirea.ru",
-    "juras.banys@ff.vu.lt"
-   ],
-   "phones": [
-    "+7 499 600-80-80"
-   ],
-   "site_ok": true,
+   "emails": [],
+   "phones": [],
+   "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.rtj-mirea.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [
-    {
-     "text": "Публикация статей в журнале бесплатна для авторов.",
-     "url": "https://www.rtj-mirea.ru"
-    },
-    {
-     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
-     "url": "https://www.rtj-mirea.ru"
-    },
-    {
-     "text": "ORCID – открытая бесплатная система регистрации всех ученых мира, пишущих статьи.",
-     "url": "https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "price_mentions": [],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [
-    {
-     "text": "На подготовку англоязычной версии требуется значительное время, поэтому перевод на английский язык статей, прошедших рецензирование и одобренных к публикации, осуществляется заблаговременно - за 3-4 месяца до выпуска журнала.",
-     "url": "https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines"
-    }
-   ],
+   "term_mentions": [],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -53438,17 +52541,18 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://liber.rsuh.ru/",
    "author_page": null,
    "rinc": true,
    "emails": [],
    "phones": [],
-   "site_ok": null,
+   "site_ok": true,
    "price": null,
    "price_mentions": [],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
+    "Изучите требования к оформлению и публикационную этику на сайте журнала: https://liber.rsuh.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
     "Проверьте текст на оригинальность до подачи; дождитесь результатов рецензирования и ответьте на замечания рецензентов"
    ],
@@ -53525,9 +52629,13 @@ window.FU_DATA = {
    "site": "https://superfri.org/index.php/superfri/focus-and-scope",
    "author_page": "https://superfri.org/index.php/superfri/author-guidelines#instructions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
-   "site_ok": false,
+   "emails": [
+    "kraevaya@susu.ru"
+   ],
+   "phones": [
+    "81139061773"
+   ],
+   "site_ok": true,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
