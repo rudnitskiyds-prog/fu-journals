@@ -371,7 +371,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31292/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "071b673732",
@@ -437,7 +438,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31400/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "68e7d73639",
@@ -760,7 +762,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31501/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2afbef60c7",
@@ -1007,7 +1010,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30539/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "06c28656d2",
@@ -1079,7 +1083,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29494/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c37de6dd43",
@@ -1131,7 +1136,12 @@ window.FU_DATA = {
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Сроки рецензирования составляют до 2 месяцев со дня получения редакцией рукописи.",
+     "url": "http://apk-eu.ru/page/3"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://apk-eu.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -1139,7 +1149,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29495/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "7b65253b86",
@@ -1205,7 +1216,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30878/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "94b2ce5e3f",
@@ -1275,7 +1287,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29497/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "768a0815d5",
@@ -1342,7 +1355,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/22394/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2967c6ba2e",
@@ -1523,7 +1537,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30882/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ad725aa38b",
@@ -1620,7 +1635,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/2405/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "eb068f6376",
@@ -1803,7 +1819,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29506/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a0681a8c75",
@@ -1869,7 +1886,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31293/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4e1c570ac4",
@@ -1949,7 +1967,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30888/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5ed5b3a7fa",
@@ -1999,13 +2018,40 @@ window.FU_DATA = {
    "site": "https://www.btpnadzor.ru/ru/o-zhurnale",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "zakaz@safety.ru",
+    "btp@safety.ru",
+    "redbtp@safety.ru",
+    "webmaster@safety.ru"
+   ],
+   "phones": [
+    "+7 (495) 775-23-38",
+    "+7 (495) 620-47-53",
+    "+7 (495) 620-47-44"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://www.btpnadzor.ru/ru/o-zhurnale"
+   },
+   "price_mentions": [
+    {
+     "text": "срокам публикации без предварительного изменения и на условиях ее свободного (бесплатного) использования.Обязательным условием перепечатки и ретрансляции является ссылка на",
+     "url": "https://www.btpnadzor.ru/ru/o-zhurnale"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рецензирования составляет 2–4 недели, но по просьбе рецензента может быть продлен.",
+     "url": "https://www.btpnadzor.ru/redakcionnaya-etika"
+    },
+    {
+     "text": "В среднем срок рецензирования составляет 1 месяц.",
+     "url": "https://www.btpnadzor.ru/pravila-recenzirovaniya-nauchnyh-statey"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.btpnadzor.ru/ru/o-zhurnale",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -2013,7 +2059,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/22587/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "93ff8a2527",
@@ -2109,7 +2156,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/2748/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "eec3edc5e3",
@@ -2349,7 +2397,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29522/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "caf81ee925",
@@ -2418,7 +2467,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30484/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e2085d86a0",
@@ -2484,7 +2534,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31741/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ba69980dbd",
@@ -2587,8 +2638,12 @@ window.FU_DATA = {
    "site": "https://www.herald-of-an-archivist.com/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "avtoram@vestarchive.ru"
+   ],
+   "phones": [
+    "+7(916)2522822"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -2601,7 +2656,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/8059/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "011c6c67c9",
@@ -2668,7 +2724,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31334/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e93a434fa1",
@@ -2795,7 +2852,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30103/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6c9d3526c2",
@@ -2869,7 +2927,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31301/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8cf32fd2b7",
@@ -2949,7 +3008,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21321/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6616500c7e",
@@ -3028,7 +3088,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30544/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "10dd4e048e",
@@ -3133,7 +3194,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21446/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "90ee876546",
@@ -3263,7 +3325,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30897/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d759866a33",
@@ -3334,7 +3397,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30224/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "39e2a7585a",
@@ -3400,7 +3464,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29529/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e2b43b3363",
@@ -3678,8 +3743,12 @@ window.FU_DATA = {
    "site": "https://www.economicsmgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "sj@guppros.ru"
+   ],
+   "phones": [
+    "8 (495) 780-09-49"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -3692,7 +3761,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30844/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a15ff14481",
@@ -3762,7 +3832,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29530/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f53c883dca",
@@ -3808,7 +3879,9 @@ window.FU_DATA = {
    "site": "https://elibrary.ru/title_about_new.asp?id=32853&langid=1",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "support@elibrary.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -3822,7 +3895,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29531/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "8dc40607c7",
@@ -3888,7 +3962,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21293/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "10bbcacca4",
@@ -3933,8 +4008,17 @@ window.FU_DATA = {
    "site": "https://zabvestnik.com/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnikzabgu@yandex.ru",
+    "mail@zabgu.ru",
+    "gorodkovasa@zabgu.ru",
+    "vestnik@zabgu.ru"
+   ],
+   "phones": [
+    "+7(3022)41-64-44",
+    "+7 (3022) 41-64-44",
+    "+7 (3022) 41-67-18"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -3947,7 +4031,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31721/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "392193ffa7",
@@ -4008,7 +4093,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29532/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0c7801403c",
@@ -4168,8 +4254,13 @@ window.FU_DATA = {
    "site": "https://vestnik-kazgau.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "info@kazgau.com",
+    "vestnik@kazgau.com"
+   ],
+   "phones": [
+    "+7(917)888-44-86"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -4182,7 +4273,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29533/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "b0ca2e722b",
@@ -4257,7 +4349,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31669/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e1e62e2c12",
@@ -4337,7 +4430,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30161/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7086ee7b7f",
@@ -4409,7 +4503,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31418/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "421c1ab4a2",
@@ -4472,8 +4567,12 @@ window.FU_DATA = {
    "site": "https://vestnik.mgimo.ru/jour/index",
    "author_page": "https://vestnik.mgimo.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnik@inno.mgimo.ru"
+   ],
+   "phones": [
+    "+7 495 439-70-10"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -4493,7 +4592,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/15249/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "fe5831275b",
@@ -4539,11 +4639,29 @@ window.FU_DATA = {
    "site": "http://www.vestnikmgsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "president@mgsu.ru"
+   ],
+   "phones": [
+    "+7 (495) 287-49-14",
+    "+7 (499) 678-28-83"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "http://www.vestnikmgsu.ru/"
+   },
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале для авторов бесплатная .",
+     "url": "http://www.vestnikmgsu.ru/"
+    },
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "http://www.vestnikmgsu.ru/"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -4553,7 +4671,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29537/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "725bf2303d",
@@ -4640,7 +4759,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21294/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "cc2ca421f0",
@@ -4684,8 +4804,12 @@ window.FU_DATA = {
    "site": "http://vestnik.mininuniver.ru/jour",
    "author_page": "http://vestnik.mininuniver.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnik@mininuniver.ru"
+   ],
+   "phones": [
+    "+7 (831) 295-29-80"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -4705,7 +4829,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31888/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "6ec0dd80ae",
@@ -4907,7 +5032,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/24307/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "44527fd65a",
@@ -5025,7 +5151,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31723/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c22e27f9d7",
@@ -5129,11 +5256,25 @@ window.FU_DATA = {
    "site": "https://msuecon.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "econ.msu.editor@gmail.com"
+   ],
+   "phones": [
+    "+7 (495) 939-28-82",
+    "81119466642"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://msuecon.elpub.ru/jour/about/submissions"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию рукописей не взимается.",
+     "url": "https://msuecon.elpub.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -5143,7 +5284,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29552/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "b2876cdd77",
@@ -5215,7 +5357,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29553/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "129b7fd39d",
@@ -5285,7 +5428,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29554/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ce97ff6d8a",
@@ -5436,7 +5580,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21295/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3d0741ba05",
@@ -5498,7 +5643,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30874/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ec156a781b",
@@ -5576,7 +5722,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29542/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "48c17a6337",
@@ -5676,7 +5823,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29543/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "35265944ef",
@@ -5735,7 +5883,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29544/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2fa65050e9",
@@ -5867,7 +6016,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29547/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b10f1f4155",
@@ -5939,7 +6089,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30873/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "dfb505728f",
@@ -6018,7 +6169,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30903/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9354dbf1eb",
@@ -6063,15 +6215,25 @@ window.FU_DATA = {
    "site": "https://fmp.elpub.ru/jour",
    "author_page": "https://fmp.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnik.fmp@fmp.msu.ru",
+    "vestnik25@org.msu.ru"
+   ],
+   "phones": [
+    "+7 (495) 939-52-71"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://fmp.elpub.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию в «Вестнике Московского университета.",
+     "url": "https://fmp.elpub.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -6084,7 +6246,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31461/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "811fbd7c83",
@@ -6156,7 +6319,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31980/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e167d1af95",
@@ -6227,7 +6391,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30905/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9e19883f7a",
@@ -6271,8 +6436,17 @@ window.FU_DATA = {
    "site": "https://vestnikmephi.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnik@mephi.ru",
+    "ced@maik.ru",
+    "mnstrikhanov@mephi.ru",
+    "nakudryashov@mephi.ru"
+   ],
+   "phones": [
+    "+7 (928) 909-75-11",
+    "+7 (495) 788 56 99",
+    "+7 (499) 324-11-81"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -6285,7 +6459,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31690/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "22ed289c50",
@@ -6386,7 +6561,12 @@ window.FU_DATA = {
    "site": "https://nsuem.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "vestnik@nsuem.ru",
+    "show@nsuem.ru",
+    "s444@ngs.ru",
+    "v.v.glinskij@nsuem.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -6400,7 +6580,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31519/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "b1a13cd109",
@@ -6617,8 +6798,15 @@ window.FU_DATA = {
    "site": "https://intechngu.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "jit.nsu@gmail.com",
+    "mmlavrentiev@gmail.com",
+    "bychkov@icc.ru",
+    "gbm@opg.sscc.ru"
+   ],
+   "phones": [
+    "+7 (383) 363-42-47"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -6631,7 +6819,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31363/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "d24205e35b",
@@ -6681,15 +6870,28 @@ window.FU_DATA = {
    "site": "https://nguhist.elpub.ru/jour",
    "author_page": "https://nguhist.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "segorov752@gmail.com",
+    "philology@vestnik.nsu.ru",
+    "selin@epage.ru",
+    "avvarenov@mail.ru"
+   ],
+   "phones": [
+    "+7 (383) 363-42-26",
+    "8-7919-2020-19"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://nguhist.elpub.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата с авторов за публикацию рукописей не взимается.",
+     "url": "https://nguhist.elpub.ru/jour"
+    }
+   ],
    "term": {
     "text": "≈ 28 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -6702,7 +6904,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29151/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "3c87d38380",
@@ -6747,7 +6950,9 @@ window.FU_DATA = {
    "site": "https://lingngu.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "lingua@vestnik.nsu.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -6761,7 +6966,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29559/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a58fed40b3",
@@ -6806,7 +7012,9 @@ window.FU_DATA = {
    "site": "https://herald-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "vakilovan@omsu.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -6820,7 +7028,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30908/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a0329659b2",
@@ -6865,11 +7074,23 @@ window.FU_DATA = {
    "site": "https://history-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "vesthist@mail.ru",
+    "spbychkov@mail.ru"
+   ],
    "phones": [],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://history-journal.omsu.ru/"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию не взимается.",
+     "url": "https://history-journal.omsu.ru/"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -6879,7 +7100,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29560/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "ee4454816c",
@@ -6924,11 +7146,24 @@ window.FU_DATA = {
    "site": "https://law-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "omgu-vestnikpravo@mail.ru"
+   ],
+   "phones": [
+    "8 (3812) 63-21-20"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://law-journal.omsu.ru/rules"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата с авторов, в том числе аспирантов, за публикацию рукописей не взимается.",
+     "url": "https://law-journal.omsu.ru/rules"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -6938,7 +7173,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31337/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "d4d86dc8b1",
@@ -6983,7 +7219,9 @@ window.FU_DATA = {
    "site": "https://economic-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "economicsjournal@omsu.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -6997,7 +7235,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31336/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "49685d0a46",
@@ -7081,7 +7320,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31398/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "052cfb0590",
@@ -7202,7 +7442,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31344/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a9d1942da0",
@@ -7285,7 +7526,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21298/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b0fb1c690b",
@@ -7363,7 +7605,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29561/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "855a022a3e",
@@ -7447,7 +7690,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31387/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0835b97dba",
@@ -7795,7 +8039,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31778/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8e748c75ef",
@@ -7853,7 +8098,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30500/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "54ec0190b8",
@@ -7911,7 +8157,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30411/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "87643722d6",
@@ -7970,7 +8217,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32068/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c029fe3d02",
@@ -8028,7 +8276,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32067/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "cada7fe931",
@@ -8126,11 +8375,36 @@ window.FU_DATA = {
    "site": "https://mathematics.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "zukovskys@mail.ru",
+    "ilina@tsutmb.ru",
+    "vbv57@inbox.ru",
+    "vladimir.b.vasilyev@gmail.com"
+   ],
+   "phones": [
+    "8(4752)72-34-34",
+    "+7(4752)72-34-34"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://mathematics.elpub.ru/jour/"
+   },
+   "price_mentions": [
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "https://mathematics.elpub.ru/jour/"
+    },
+    {
+     "text": "Все публикации в журнале бесплатны.",
+     "url": "https://mathematics.elpub.ru/jour/about/submissions"
+    },
+    {
+     "text": "Все публикации в электронном виде распространяются бесплатно.",
+     "url": "https://mathematics.elpub.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -8140,7 +8414,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29565/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "73414e639b",
@@ -8237,7 +8512,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30268/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1efdd47c22",
@@ -8348,7 +8624,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19138/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5c07b10e7c",
@@ -8458,7 +8735,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30279/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d14021705d",
@@ -8573,7 +8851,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29155/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "db7cff3039",
@@ -8671,7 +8950,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29567/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5f49890226",
@@ -8769,7 +9049,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29568/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "437906bb7c",
@@ -8872,7 +9153,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19139/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e23043693e",
@@ -8979,7 +9261,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28311/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3e23b547bb",
@@ -9082,7 +9365,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28312/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1942164fe9",
@@ -9179,7 +9463,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30102/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "811acf2d44",
@@ -9276,7 +9561,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30291/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e0b9e3d5f6",
@@ -9374,7 +9660,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29569/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "493388c9a5",
@@ -9479,15 +9766,24 @@ window.FU_DATA = {
    "site": "https://vest.rea.ru/",
    "author_page": "https://vest.rea.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "izdatelstvo@rea.ru"
+   ],
+   "phones": [
+    "8 (495) 800-12-00"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://vest.rea.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата с аспирантов за публикацию рукописи не взимается.",
+     "url": "https://vest.rea.ru/jour/about/submissions"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -9500,7 +9796,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31662/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "e08072190a",
@@ -9647,7 +9944,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31368/",
-   "review": "Double anonymous peer review, Single anonymous peer review"
+   "review": "Double anonymous peer review, Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4c84cb2c32",
@@ -9787,7 +10085,10 @@ window.FU_DATA = {
    "site": "https://vestnik.sseu.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "vestnik_sgeu@mail.ru",
+    "sgeu@mail.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -9801,7 +10102,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30913/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "330364024b",
@@ -9893,7 +10195,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30181/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "29aa2063b6",
@@ -10005,7 +10308,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29156/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4e737085ab",
@@ -10084,7 +10388,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21305/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "39c3aee107",
@@ -10159,7 +10464,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29575/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f12cee9bd4",
@@ -10239,7 +10545,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30449/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3ed8386fb4",
@@ -10301,7 +10608,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29577/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2630c7f356",
@@ -10388,7 +10696,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21296/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "73f274f3c8",
@@ -10475,7 +10784,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21307/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e4f3518107",
@@ -10539,7 +10849,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29578/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d694cd552c",
@@ -10620,7 +10931,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29579/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1d4ab1caa5",
@@ -10697,7 +11009,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21303/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "de9423afc0",
@@ -10765,7 +11078,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21302/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8ce2f6b6ff",
@@ -10858,7 +11172,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21306/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a3151ec024",
@@ -10942,7 +11257,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31675/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "16c9714381",
@@ -10986,13 +11302,35 @@ window.FU_DATA = {
    "site": "https://vestnik.sibsutis.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnik@sibguti.ru"
+   ],
+   "phones": [
+    "+7 (383) 269-39-38"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
+   },
+   "price_mentions": [
+    {
+     "text": "Также в ведении авторов находится выбор УДК для статьи (бесплатную консультацию по выбору УДК можно получить в библиотеке СибГУТИ).",
+     "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "После поступления статьи в редакцию, она проверяется в течение 7 дней, далее, если всё корректно передается на рецензирование.",
+     "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
+    },
+    {
+     "text": "Срок рецензирования - 1 месяц.",
+     "url": "https://vestnik.sibsutis.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vestnik.sibsutis.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -11000,7 +11338,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31459/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "f843d04105",
@@ -11045,8 +11384,12 @@ window.FU_DATA = {
    "site": "https://vestnik.sibadi.org",
    "author_page": "https://vestnik.sibadi.org/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vestnik_sibadi@sibadi.org"
+   ],
+   "phones": [
+    "+7 (3812) 65-03-09"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -11058,7 +11401,12 @@ window.FU_DATA = {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Общий срок редакционной подготовки статьи, успешно прошедшей рецензирование, составляет 2 месяца в соответствии с периодичностью и графиком публикации выпусков.",
+     "url": "https://vestnik.sibadi.org/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vestnik.sibadi.org/jour/about/submissions",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -11066,7 +11414,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30352/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "39baafc88a",
@@ -11111,14 +11460,21 @@ window.FU_DATA = {
    "author_page": "https://vestnik.sibsiu.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
    "emails": [],
-   "phones": [],
+   "phones": [
+    "+7(3843)32-89-32"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://vestnik.sibsiu.ru/jour/about/editorialPolicies#focusAndScope"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикация статей является бесплатной.",
+     "url": "https://vestnik.sibsiu.ru"
+    }
+   ],
    "term": {
     "text": "≈ 4 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -11131,7 +11487,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31726/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "b81216c086",
@@ -11246,7 +11603,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31872/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "03ce563070",
@@ -11317,7 +11675,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31258/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9b53ddf849",
@@ -11433,7 +11792,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30916/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "11e8ca1c39",
@@ -11502,7 +11862,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/20763/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e30d97d999",
@@ -11562,7 +11923,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21317/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5a0d383001",
@@ -11639,7 +12001,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21313/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1c9a94fb88",
@@ -11702,7 +12065,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21314/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ae454a9849",
@@ -11771,7 +12135,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21316/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c41f8d35dd",
@@ -11840,7 +12205,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21311/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "acfa14f533",
@@ -11899,7 +12265,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31101/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ee6da4a497",
@@ -11965,7 +12332,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31983/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "111c539b73",
@@ -12032,7 +12400,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21319/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "48591f0a9e",
@@ -12091,7 +12460,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32058/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "22b0483e30",
@@ -12154,7 +12524,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32057/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "dd32e5450c",
@@ -12195,11 +12566,15 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "https://vestnik.msal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "egbulychev@msal.ru"
+   ],
+   "phones": [
+    "8 (499) 244-88-88"
+   ],
    "site_ok": null,
    "price": null,
    "price_mentions": [],
@@ -12211,7 +12586,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31873/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "736eada118",
@@ -12341,7 +12717,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31411/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "826813b9db",
@@ -12385,8 +12762,16 @@ window.FU_DATA = {
    "site": "https://www.chuvsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "priem@minobrnauki.gov.ru",
+    "office@chuvsu.ru",
+    "priemkom@chuvsu.ru"
+   ],
+   "phones": [
+    "8 800 444 51 15",
+    "+7 (8352) 45-02-79",
+    "+7 (8352) 45-21-24"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -12399,7 +12784,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31133/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5b1d62be12",
@@ -12458,7 +12844,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29585/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "573e6b7596",
@@ -12547,7 +12934,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31504/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f023431210",
@@ -12616,7 +13004,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29586/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "75564fa495",
@@ -12677,7 +13066,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30324/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f190121ab6",
@@ -12739,7 +13129,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30379/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9b3e966330",
@@ -12823,7 +13214,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29587/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d0471a98dd",
@@ -12902,7 +13294,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/3173/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2166644e4d",
@@ -12966,7 +13359,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31317/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2e6548ba50",
@@ -13028,7 +13422,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30357/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a5cec9a983",
@@ -13099,7 +13494,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30346/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3b9dc27f4a",
@@ -13150,13 +13546,37 @@ window.FU_DATA = {
    "site": "https://www.vmj.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "kusraev@smath.ru",
+    "agkusraev@mail.ru",
+    "rio@smath.ru"
+   ],
+   "phones": [
+    "+7(8672)23-00-54"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://www.vmj.ru/"
+   },
+   "price_mentions": [
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "https://www.vmj.ru/"
+    },
+    {
+     "text": "Публикации в журнале для авторов бесплатны.",
+     "url": "https://www.vmj.ru/toauthors.php"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рассмотрения статей обычно не превышает 8 месяцев.",
+     "url": "https://www.vmj.ru/"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.vmj.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -13164,7 +13584,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29195/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "7661836ec2",
@@ -13368,7 +13789,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21452/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8eb3e19562",
@@ -13444,7 +13866,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30584/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d175a9f430",
@@ -13566,7 +13989,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29601/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3e2a11b7be",
@@ -13648,7 +14072,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29207/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2a16b0cdbd",
@@ -13713,7 +14138,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21454/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "88e0480aa3",
@@ -13797,7 +14223,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21455/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2e84eaa2bf",
@@ -13875,7 +14302,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21456/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0f2e9f769a",
@@ -14000,7 +14428,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31476/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b479858d6c",
@@ -14165,8 +14594,13 @@ window.FU_DATA = {
    "site": "https://www.linguamgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "info@vestnik-mgou.ru",
+    "sj@guppros.ru"
+   ],
+   "phones": [
+    "8 (495) 780-09-42"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -14179,7 +14613,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30850/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "18132b4761",
@@ -14225,8 +14660,13 @@ window.FU_DATA = {
    "site": "https://voprstat.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "voprstat@yandex.ru",
+    "nikiforov_on@infostat.ru"
+   ],
+   "phones": [
+    "+7 (495) 607-48-90"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -14239,7 +14679,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29604/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "97c4b389d6",
@@ -14315,7 +14756,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30312/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b9feb33a46",
@@ -14378,7 +14820,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/20635/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "bbdeaf9eab",
@@ -14450,7 +14893,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31753/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "508f7f4ed5",
@@ -14528,7 +14972,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21451/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9384d24e56",
@@ -14590,8 +15035,12 @@ window.FU_DATA = {
    "site": "https://www.vopreco.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mail@vopreco.ru"
+   ],
+   "phones": [
+    "8 (499) 956-01-43"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -14604,7 +15053,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21450/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "fc7495fc1f",
@@ -14748,7 +15198,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29215/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b13c186b39",
@@ -14807,7 +15258,12 @@ window.FU_DATA = {
    "site": "https://vovr.elpub.ru",
    "author_page": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "vovrus@inbox.ru",
+    "logos101@yandex.ru",
+    "bib@unn.ac.ru",
+    "bedbor@gmail.com"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -14820,7 +15276,20 @@ window.FU_DATA = {
     "text": "≈ 16 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Именно поэтому мы используем многоступенчатую систему рассмотрения представленных материалов и именно поэтому срок первичного рассмотрения рукописи составляет 60 дней с момента регистрации материала на портале vovr.elpub.ru.",
+     "url": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines"
+    },
+    {
+     "text": "Этап рецензирования может занимать от 20 до 90 дней.",
+     "url": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines"
+    },
+    {
+     "text": "Доработка статьи по результатам рецензирования должна быть выполнена авторами в течение 60 дней.",
+     "url": "https://vovr.elpub.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://vovr.elpub.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -14828,7 +15297,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29217/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a8246c6289",
@@ -14888,7 +15358,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30924/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8853d416ec",
@@ -14967,7 +15438,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23186/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "59fa32dd92",
@@ -15101,7 +15573,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/25595/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0ebf33ac26",
@@ -15185,7 +15658,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19183/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "91d2c4abb9",
@@ -15249,7 +15723,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29617/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6650347ecd",
@@ -15314,7 +15789,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29628/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2795126995",
@@ -15482,15 +15958,25 @@ window.FU_DATA = {
    "site": "https://upravlenie-uriu.ranepa.ru/jour",
    "author_page": "https://upravlenie-uriu.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "jurnal-uriu@ranepa.ru",
+    "jurnal-gmu-uriu@ranepa.ru"
+   ],
+   "phones": [
+    "+7 (863) 296-23-60"
+   ],
    "site_ok": false,
    "price": {
     "text": "7000 RUB (APC, по данным DOAJ)",
     "src": "doaj",
     "url": "https://upravlenie-uriu.ranepa.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "За редакционно-издательскую подготовку взимается плата в размере 700 рублей за 1 страницу рукописи выполненной шрифтом Times New Roman, 14 кегль, межстрочный пробел – 1,5 интервала, поля по 2 см по периметру страницы, абзацный отступ – 1 см.",
+     "url": "https://upravlenie-uriu.ranepa.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 6 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -15503,7 +15989,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30295/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5bf4742f45",
@@ -15547,11 +16034,25 @@ window.FU_DATA = {
    "site": "https://www.spajournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "e-journal@spa.msu.ru",
+    "office@spa.msu.ru",
+    "petrunin@spa.msu.ru",
+    "abarabashev@hse.ru"
+   ],
    "phones": [],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://www.spajournal.ru/jour/about/submissions"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию рукописей с авторов, в том числе аспирантов и соискателей, не взимается.",
+     "url": "https://www.spajournal.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -15561,7 +16062,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31164/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "93266fd96d",
@@ -15680,7 +16182,12 @@ window.FU_DATA = {
    "site": "https://religion.ranepa.ru/jour",
    "author_page": "https://religion.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "religion@ranepa.ru",
+    "sryzhakova@gmail.com",
+    "alexeyapp@yandex.ru",
+    "beglov.al@yandex.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -15688,12 +16195,26 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "https://religion.ranepa.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Авторские сборы: публикация в журнале для авторов бесплатна",
+     "url": "https://religion.ranepa.ru/jour"
+    },
+    {
+     "text": "Плата за публикации не взимается.",
+     "url": "https://religion.ranepa.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 50 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок публикации – 6–9 месяцев при условии прохождения рецензирования.",
+     "url": "https://religion.ranepa.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://religion.ranepa.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -15701,7 +16222,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/7819/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "819d6bb7b2",
@@ -15767,7 +16289,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31250/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4d44b8b367",
@@ -15832,7 +16355,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31680/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9d2d2eae12",
@@ -15876,13 +16400,27 @@ window.FU_DATA = {
    "site": "https://humanities.fa.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "dvonegov@fa.ru"
+   ],
+   "phones": [
+    "8(499)553-10-74"
+   ],
    "site_ok": false,
    "price": null,
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "В качестве доводов приводятся два обстоятельства: во-первых, цифровой рубль не подлежит размещению на депозитных или накопительных счетах, что исключает пассивный доход в виде процентов; во-вторых, расплачиваясь им, нельзя будет получить кешбэк, а для многих россиян это важный фактор при выборе банка.",
+     "url": "https://humanities.fa.ru/jour/"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Максимальный срок рецензирования составляет не более 2 месяцев.",
+     "url": "https://humanities.fa.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://humanities.fa.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -15890,7 +16428,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31657/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "84650040ee",
@@ -15992,8 +16531,15 @@ window.FU_DATA = {
    "site": "http://zabvektor.com/?lang=en",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "rik@zabgu.ru",
+    "zab-nauka@mail.ru"
+   ],
+   "phones": [
+    "+7(3022)41-64-44",
+    "+7 (3022) 41-67-18",
+    "+7 924 385-68-01"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -16006,7 +16552,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31331/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "eb3e24b62f",
@@ -16090,7 +16637,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31725/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b4c052c441",
@@ -16149,7 +16697,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31190/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ee62529334",
@@ -16239,7 +16788,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29631/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "eedcb5a525",
@@ -16305,7 +16855,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30644/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "076428ec52",
@@ -16391,7 +16942,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29634/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "740d44ff78",
@@ -16524,7 +17076,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/5365/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a8e7e7e6d7",
@@ -16593,7 +17146,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31472/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "371a47e9d4",
@@ -16757,15 +17311,29 @@ window.FU_DATA = {
    "site": "https://discourse.elpub.ru/jour",
    "author_page": "https://discourse.elpub.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "discourse@etu.ru",
+    "discourse@etu.ru),"
+   ],
+   "phones": [
+    "+7 812 234-10-13"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://discourse.elpub.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале для авторов бесплатна.",
+     "url": "https://discourse.elpub.ru/jour"
+    },
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "https://discourse.elpub.ru/jour"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -16778,7 +17346,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32064/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "db3077dc79",
@@ -16856,7 +17425,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29643/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f947ea47c7",
@@ -16900,8 +17470,12 @@ window.FU_DATA = {
    "site": "https://discussionj.ru/index.php/polemik/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "journal-discussion@mail.ru"
+   ],
+   "phones": [
+    "+7 (917) 4010889"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -16914,7 +17488,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31534/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "682e38eb3c",
@@ -16973,7 +17548,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29644/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b46acc2dd2",
@@ -17020,10 +17596,12 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "http://hdl.handle.net/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "hdladmin@cnri.reston.va.us"
+   ],
    "phones": [],
    "site_ok": null,
    "price": null,
@@ -17036,7 +17614,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23478/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "42d5b17170",
@@ -17165,7 +17744,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30413/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2600423dbf",
@@ -17241,7 +17821,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/5512/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "39bba77f6c",
@@ -17285,7 +17866,12 @@ window.FU_DATA = {
    "site": "https://www.eijournal.ru/jour/index",
    "author_page": "https://www.eijournal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "eijournal@ranepa.ru",
+    "lysunets-ea@ranepa.ru",
+    "alexey@gromyko.ru",
+    "a-kozhoshev@mail.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -17306,7 +17892,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31339/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a5e338a885",
@@ -17385,7 +17972,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29368/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "352352dc17",
@@ -17456,7 +18044,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29262/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6abd61815e",
@@ -17712,7 +18301,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/13489/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "99859ed949",
@@ -17778,7 +18368,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31402/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "47eb1e2bb4",
@@ -17846,7 +18437,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21809/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ae5705a1f1",
@@ -18033,7 +18625,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26150/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "cf57839dbe",
@@ -18115,7 +18708,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/13465/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7224b47400",
@@ -18322,7 +18916,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21808/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "10ad535063",
@@ -18381,7 +18976,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29670/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "91a68c21f0",
@@ -18497,7 +19093,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30936/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a1d57ac615",
@@ -18682,7 +19279,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31493/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8805ef0032",
@@ -18746,7 +19344,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31507/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "037bdeae2b",
@@ -18826,7 +19425,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21816/",
-   "review": "Unspecified peer review"
+   "review": "Unspecified peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1493a99848",
@@ -18889,7 +19489,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30156/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "094bf003a6",
@@ -18935,8 +19536,13 @@ window.FU_DATA = {
    "site": "https://izvuzmath.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "izvuz.matem@kpfu.ru"
+   ],
+   "phones": [
+    "8 (843) 238-33-21",
+    "8 (843) 233-71-64"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -18949,7 +19555,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29679/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "4da4ca8136",
@@ -18993,8 +19600,15 @@ window.FU_DATA = {
    "site": "https://izvuz_gn_eng.pnzgu.ru/",
    "author_page": "https://izvuz_gn_eng.pnzgu.ru/page/12419",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "volgavuz@pnzgu.ru",
+    "iic@pnzgu.ru",
+    "vicont37@yandex.ru"
+   ],
+   "phones": [
+    "+7 (8412) 64-32-89",
+    "89273928961"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -19014,7 +19628,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30457/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "15982aff66",
@@ -19059,8 +19674,14 @@ window.FU_DATA = {
    "site": "https://izvuz_fmn_eng.pnzgu.ru/",
    "author_page": "https://izvuz_fmn_eng.pnzgu.ru/page/12411",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "volgavuz@pnzgu.ru",
+    "iic@pnzgu.ru",
+    "physics@pnzgu.ru"
+   ],
+   "phones": [
+    "+7 (8412) 64-32-89"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -19080,7 +19701,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29682/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "c4cd9a2e28",
@@ -19169,7 +19791,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/10456/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "79bf93da3f",
@@ -19296,7 +19919,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31890/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e5431dfb7b",
@@ -19442,7 +20066,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31645/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "89668278ac",
@@ -19521,7 +20146,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/3124/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "add8440abe",
@@ -19600,7 +20226,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31702/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a4e6f56ca8",
@@ -19663,7 +20290,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31533/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4298910e9d",
@@ -19741,7 +20369,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30944/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1e59652010",
@@ -20047,7 +20676,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30166/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "83390f16be",
@@ -20184,7 +20814,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31736/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9574b935ad",
@@ -20280,7 +20911,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/10452/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2528d5a294",
@@ -20358,7 +20990,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31201/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c156e35018",
@@ -20474,7 +21107,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17620/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ce31ca3772",
@@ -20556,7 +21190,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/10453/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8126dca1ff",
@@ -20600,11 +21235,31 @@ window.FU_DATA = {
    "site": "https://ecsocmenus.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "rio_kursk@mail.ru",
+    "rector@swsu.ru",
+    "bessonowa_new@mail.ru",
+    "abramov_ap@inbox.ru"
+   ],
+   "phones": [
+    "8 (4712) 22-25-26"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://ecsocmenus.elpub.ru/jour/"
+   },
+   "price_mentions": [
+    {
+     "text": "Публикация статей в журнале для авторов БЕСПЛАТНА.",
+     "url": "https://ecsocmenus.elpub.ru/jour/"
+    },
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "https://ecsocmenus.elpub.ru/jour/"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -20614,7 +21269,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31788/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "0dc763e83b",
@@ -20753,7 +21409,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31207/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1b6fadd63e",
@@ -20798,11 +21455,27 @@ window.FU_DATA = {
    "site": "https://www.izmt.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "izmt@vniims.ru",
+    "izmt@yandex.ru",
+    "elazarenko@rst.gov.ru",
+    "bel.vlad.i@yandex.ru"
+   ],
+   "phones": [
+    "8(495)781-48-70"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://www.izmt.ru/jour/"
+   },
+   "price_mentions": [
+    {
+     "text": "Публикация статей в журнале осуществляется бесплатно.",
+     "url": "https://www.izmt.ru/jour/"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -20812,7 +21485,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29705/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "4e74afd2ba",
@@ -20886,7 +21560,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29707/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c6ea097f9b",
@@ -20966,7 +21641,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30947/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3d18a110d5",
@@ -21141,7 +21817,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30212/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "348ca201c3",
@@ -21210,7 +21887,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30119/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5bba90204d",
@@ -21374,7 +22052,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31433/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b37e24c2db",
@@ -21452,7 +22131,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30623/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b1fc2812fe",
@@ -21538,7 +22218,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/24553/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ec9287c8be",
@@ -21625,7 +22306,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/24556/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "07520a83c7",
@@ -21671,13 +22353,29 @@ window.FU_DATA = {
    "site": "https://info.infojournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "info@infojournal.ru",
+    "readinfo@infojournal.ru",
+    "grigorsg@yandex.ru"
+   ],
+   "phones": [
+    "+7 (495) 140-1986"
+   ],
    "site_ok": false,
    "price": null,
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Редакция не берет платы за публикацию рукописей.",
+     "url": "https://info.infojournal.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Сроки публикации статьи составляют от одного до шести месяцев в зависимости от темы статьи и общего количества статей в очереди на публикацию.",
+     "url": "https://info.infojournal.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://info.infojournal.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -21685,7 +22383,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29712/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5fab7ab4e9",
@@ -21870,7 +22569,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30747/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "42ea6f547d",
@@ -21976,7 +22676,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/24567/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7bd705717f",
@@ -22178,7 +22879,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29715/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9fe0befaf5",
@@ -22241,7 +22943,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29716/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9a280011ba",
@@ -22306,7 +23009,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31958/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8482a1c67c",
@@ -22373,7 +23077,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29718/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "202dbbd40b",
@@ -22493,7 +23198,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31713/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "876a6b2707",
@@ -22614,7 +23320,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32031/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "60a34bb21c",
@@ -22854,7 +23561,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32006/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "260b21203a",
@@ -23037,7 +23745,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31254/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "dd6b306a07",
@@ -23082,7 +23791,9 @@ window.FU_DATA = {
    "site": "https://com-studies-journal.omsu.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "terskikhmv@omsu.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -23096,7 +23807,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31989/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "ce2845eab7",
@@ -23141,7 +23853,9 @@ window.FU_DATA = {
    "site": "https://www.communicology.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "nata.kirillina@gmail.com"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -23155,7 +23869,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31854/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "08090c946c",
@@ -23249,7 +23964,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/4488/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "09d0c1d0e5",
@@ -23333,7 +24049,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23193/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6434ff8bf4",
@@ -23399,7 +24116,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30963/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2b3620f90e",
@@ -23445,8 +24163,12 @@ window.FU_DATA = {
    "site": "https://www.ogt-journal.com/jour/index",
    "author_page": "https://www.ogt-journal.com/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "journal@centero.ru"
+   ],
+   "phones": [
+    "81475263415"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -23466,7 +24188,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29742/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "e22fa6d241",
@@ -23552,7 +24275,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29745/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7b51ea5566",
@@ -23637,7 +24361,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31385/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7c8bc1f7fe",
@@ -23724,7 +24449,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28344/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "08dabbd8db",
@@ -23867,7 +24593,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31676/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3dc9bbb033",
@@ -23946,7 +24673,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/14261/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "289116e0d2",
@@ -24088,7 +24816,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31977/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1c524a9dab",
@@ -24171,7 +24900,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26609/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3f9a074f96",
@@ -24240,7 +24970,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/14653/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1a978e63e4",
@@ -24320,7 +25051,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30972/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "88b91a262f",
@@ -24383,7 +25115,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30845/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d7ed649803",
@@ -24444,7 +25177,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29761/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "818de5f977",
@@ -24564,7 +25298,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29763/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "16f990a180",
@@ -24615,11 +25350,27 @@ window.FU_DATA = {
    "site": "https://matmess.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "zakevseev@gmail.com",
+    "zi.evseev@s-vfu.ru"
+   ],
    "phones": [],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://matmess.elpub.ru/jour/"
+   },
+   "price_mentions": [
+    {
+     "text": "Публикации в журнале для авторов бесплатны.",
+     "url": "https://matmess.elpub.ru/jour/"
+    },
+    {
+     "text": "Плата за опубликование с авторов или учреждений, где работают авторы, не взимается, и опубликованные статьи не оплачиваются.",
+     "url": "https://matmess.elpub.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -24629,7 +25380,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26705/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "92b95c7764",
@@ -24868,7 +25620,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31351/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2481e88b8c",
@@ -24933,7 +25686,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31325/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "08bb187131",
@@ -24978,8 +25732,13 @@ window.FU_DATA = {
    "site": "https://www.interanalytics.org/",
    "author_page": "https://www.interanalytics.org/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "gmbonham@maxwell.syr.edu",
+    "r_api@mail.ru"
+   ],
+   "phones": [
+    "80511862373"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -24999,7 +25758,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30192/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "227a923ffc",
@@ -25101,13 +25861,33 @@ window.FU_DATA = {
    "site": "https://mttp.rea.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "mttp@rea.ru"
+   ],
    "phones": [],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://mttp.rea.ru/jour/about/submissions"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию рукописи не взимается.",
+     "url": "https://mttp.rea.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок публикации статей составляет около 180 дней, доля отклоненных рукописей достигает 45%.",
+     "url": "https://mttp.rea.ru/jour/"
+    },
+    {
+     "text": "Обращаем внимание, что в связи с высоким объёмом обращений срок публикации увеличен до 180 дней, а доля отклонённых рукописей достигает 45%.",
+     "url": "https://mttp.rea.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://mttp.rea.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -25115,7 +25895,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32027/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "d6437190a6",
@@ -25247,7 +26028,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31715/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9834de8d84",
@@ -25320,7 +26102,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29777/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6925c978ae",
@@ -25386,7 +26169,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30977/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "cc2889bcbb",
@@ -25437,8 +26221,12 @@ window.FU_DATA = {
    "site": "https://www.intertrends.ru/jour",
    "author_page": "http://intertrends.ru/en/for-authors/guidelines-and-styles",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "review@intertrends.ru"
+   ],
+   "phones": [
+    "+7 495 401-10-90"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -25458,7 +26246,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26847/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "8107d3e19a",
@@ -25662,7 +26451,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29780/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6915de1f2f",
@@ -25737,7 +26527,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31158/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1637bf18c3",
@@ -25781,13 +26572,21 @@ window.FU_DATA = {
    "site": "https://www.mba-journal.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "mba-journal@ideg.ru",
+    "ideg@ideg.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Максимальный срок рецензирования – между датами поступления (варианта) рукописи в редакцию и вынесения редакционным советом решения – составляет 2 месяца.",
+     "url": "https://www.mba-journal.ru/authors/"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.mba-journal.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -25795,7 +26594,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31416/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "c3478e4b34",
@@ -25905,11 +26705,27 @@ window.FU_DATA = {
    "site": "https://mech.novtex.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mech@novtex.ru",
+    "nbfilimonov@mail.ru",
+    "aabolshakov57@gmail.com",
+    "arkadyus@mail.ru"
+   ],
+   "phones": [
+    "+7 (499) 270-16-52"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://mech.novtex.ru/jour/about/submissions"
+   },
+   "price_mentions": [
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "https://mech.novtex.ru/jour/about/submissions"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -25919,7 +26735,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26805/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5f22fb4597",
@@ -25985,7 +26802,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31235/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "38a67daffa",
@@ -26144,15 +26962,24 @@ window.FU_DATA = {
    "site": "http://wne.fa.ru/jour",
    "author_page": "http://wne.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "julia.an@mail.ru"
+   ],
+   "phones": [
+    "8(499)553-10-74"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://wne.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале для авторов бесплатная: плата за подготовку, размещение и печать материалов не взимается.",
+     "url": "http://wne.fa.ru/jour/about/submissions"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -26165,7 +26992,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31719/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "6eacf3e078",
@@ -26356,7 +27184,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/15390/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3ffa6520e7",
@@ -26436,7 +27265,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30984/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4fae8b4a18",
@@ -26541,20 +27371,41 @@ window.FU_DATA = {
    "site": "http://www.mir-nayka.com",
    "author_page": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mir@spa.msu.ru",
+    "voronov@spa.msu.ru",
+    "nivashenko@mail.ru",
+    "komkov_ni@mail.ru"
+   ],
+   "phones": [
+    "+7 (495) 930-85-71"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.mir-nayka.com/jour/about/editorialPolicies#custom-6"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Статьи публикуются бесплатно.",
+     "url": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines"
+    },
+    {
+     "text": "Редакция не взимает с авторов плату за подготовку статьи к публикации, размещение и печать материалов.",
+     "url": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 11 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "время от принятия статьи до готовности к публикации – от 90 дней",
+     "url": "http://www.mir-nayka.com/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.mir-nayka.com/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -26562,7 +27413,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29790/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "72e98506f7",
@@ -26630,7 +27482,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/15393/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b5a2bc0b9c",
@@ -26696,7 +27549,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30979/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e212cf6083",
@@ -26740,8 +27594,15 @@ window.FU_DATA = {
    "site": "https://mss_eng.pnzgu.ru/",
    "author_page": "https://mss_eng.pnzgu.ru/Manuscript_preparation_guidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mss@pnzgu.ru",
+    "iic@pnzgu.ru",
+    "gsm@pnzgu.ru"
+   ],
+   "phones": [
+    "+7 (8412) 99-81-75",
+    "8 (8412) 99-81-75"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -26761,7 +27622,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31835/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "bab83331db",
@@ -26807,7 +27669,9 @@ window.FU_DATA = {
    "site": "http://mais-journal.ru/",
    "author_page": "http://mais-journal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "mais@uniyar.ac.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -26815,7 +27679,12 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "http://mais-journal.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию: отсутствие APC (Article Processing Charges)",
+     "url": "http://mais-journal.ru/"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -26828,7 +27697,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29792/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "6b54356c48",
@@ -26898,7 +27768,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31808/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a011e4d9a9",
@@ -26994,7 +27865,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26903/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6e4ce851ce",
@@ -27039,8 +27911,12 @@ window.FU_DATA = {
    "site": "https://www.mjil.ru",
    "author_page": "https://www.mjil.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mjil@inno.mgimo.ru"
+   ],
+   "phones": [
+    "+7 495-229-38-23"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -27060,7 +27936,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31113/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "9bcbdeefff",
@@ -27105,8 +27982,12 @@ window.FU_DATA = {
    "site": "https://www.mpjournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "sj@guppros.ru"
+   ],
+   "phones": [
+    "8 (495) 780-09-42"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -27119,7 +28000,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30841/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "4c57a00049",
@@ -27164,8 +28046,12 @@ window.FU_DATA = {
    "site": "https://www.lawmgoujournal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "sj@guppros.ru"
+   ],
+   "phones": [
+    "8 (495) 780-09-42"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -27178,7 +28064,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30848/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "200090ec7b",
@@ -27244,7 +28131,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30991/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3acbd2ad23",
@@ -27288,11 +28176,28 @@ window.FU_DATA = {
    "site": "http://narodnoe.org/journals/narodnoe-obrazovanie/info",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "narob@yandex.ru",
+    "no.podpiska@yandex.ru",
+    "podpiska@narodnoe.org"
+   ],
+   "phones": [
+    "8 2019 2020 20",
+    "+7 (495) 345-52-00",
+    "+7 (495) 345-59-00"
+   ],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://narodnoe.org/avtoram"
+   },
+   "price_mentions": [
+    {
+     "text": "Размещение публикаций бесплатное.",
+     "url": "https://narodnoe.org/avtoram"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -27302,7 +28207,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30752/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a0b019fc9f",
@@ -27366,7 +28272,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29802/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "31963052fb",
@@ -27460,7 +28367,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30258/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4003f00939",
@@ -27547,7 +28455,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31817/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "701c55cde9",
@@ -27616,7 +28525,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/15826/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fd347a34b2",
@@ -27809,7 +28719,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31772/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "40da627532",
@@ -27979,7 +28890,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28409/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4e7cc00245",
@@ -28088,7 +29000,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31766/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "548e72522e",
@@ -28151,7 +29064,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31767/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d53e692529",
@@ -28195,8 +29109,15 @@ window.FU_DATA = {
    "site": "https://scires.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "sr.econ.msu@gmail.com",
+    "tutov@econ.msu.ru",
+    "l.tutov@yandex.ru",
+    "auzan@inp.ru"
+   ],
+   "phones": [
+    "+7 4959395942"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -28209,7 +29130,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31586/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "2457fe26a4",
@@ -28271,7 +29193,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30994/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e655b7e2d6",
@@ -28354,7 +29277,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31427/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2a5c487da6",
@@ -28471,20 +29395,40 @@ window.FU_DATA = {
    "site": "https://www.nauka-dialog.ru/",
    "author_page": "https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "nauka-dialog@mail.ru",
+    "editor@nauka-dialog.ru",
+    "anna-73.schetinina@yandex.ru"
+   ],
+   "phones": [
+    "89122492821"
+   ],
    "site_ok": false,
    "price": {
     "text": "26000 RUB (APC, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.nauka-dialog.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Автор ознакомлен с типом журнала (open access – открытый доступ) и стоимостью размещения в открытом доступе - 35 000 руб.",
+     "url": "https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Сроки публикации 4—10 месяцев.",
+     "url": "https://www.nauka-dialog.ru/"
+    },
+    {
+     "text": "Рецензирование проводится в срок 60—120 дней.",
+     "url": "https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.nauka-dialog.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -28492,7 +29436,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/15824/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "0d3db02e43",
@@ -28569,7 +29514,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31827/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "83c5bad0ac",
@@ -28640,7 +29586,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30297/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "998992cb40",
@@ -28714,7 +29661,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30299/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9ec43757a9",
@@ -28759,8 +29707,13 @@ window.FU_DATA = {
    "site": "https://www.fin-izdat.com/journal/national/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "post@fin-izdat.ru"
+   ],
+   "phones": [
+    "+7 925 966 4690",
+    "+7 (925) 966 4690"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -28773,7 +29726,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31285/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "3d90549562",
@@ -28863,7 +29817,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29807/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0861f0466e",
@@ -28932,7 +29887,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30754/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "dcc031847c",
@@ -29012,7 +29968,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31823/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "08306207dd",
@@ -29066,8 +30023,13 @@ window.FU_DATA = {
    "site": "http://oil-industry.ru",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mail@oil-industry.ru",
+    "mail@oik-industry.ru"
+   ],
+   "phones": [
+    "+7(495) 247-50-90"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -29080,7 +30042,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26994/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "aa53fb3ab7",
@@ -29210,7 +30173,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/16176/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "df6f4f7028",
@@ -29380,7 +30344,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31003/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5ac670fad4",
@@ -29424,8 +30389,12 @@ window.FU_DATA = {
    "site": "https://www.observer-journal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "observer-rau@yandex.ru"
+   ],
+   "phones": [
+    "8-495-951-22-25"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -29438,7 +30407,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31005/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5744bc372f",
@@ -29509,8 +30479,15 @@ window.FU_DATA = {
    "site": "http://www.edscience.ru/",
    "author_page": "http://www.edscience.ru/index.php/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "00000@mail.ru",
+    "kafedrappr@mail.ru",
+    "abdyrov@rambler.ru",
+    "angelides.p@unic.ac.cy"
+   ],
+   "phones": [
+    "+7 343 211 19 73"
+   ],
    "site_ok": false,
    "price": {
     "text": "47500 RUB (APC, по данным DOAJ)",
@@ -29530,7 +30507,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/16321/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "f49f130ed7",
@@ -29860,7 +30838,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31465/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "928eb9f7c4",
@@ -29997,7 +30976,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31008/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ddbc8c702b",
@@ -30080,7 +31060,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/16556/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3e345cda01",
@@ -30125,8 +31106,12 @@ window.FU_DATA = {
    "site": "https://www.philologymgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "info@vestnik-mgou.ru"
+   ],
+   "phones": [
+    "8 (495) 780-09-42"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -30139,7 +31124,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30849/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "fb5929d01d",
@@ -30184,8 +31170,16 @@ window.FU_DATA = {
    "site": "http://openedu.rea.ru/",
    "author_page": "http://openedu.rea.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "egorova.ea@rea.ru",
+    "telnov.yuf@rea.ru",
+    "boytchenko.av@rea.ru",
+    "trembach@postman.ru"
+   ],
+   "phones": [
+    "+7-495-237-83-31",
+    "+7-495-958-29-10"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -30205,7 +31199,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31011/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "066e446a7c",
@@ -30324,7 +31319,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30072/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "200b0cf3ec",
@@ -30529,7 +31525,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/27430/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7ef98db571",
@@ -30674,7 +31671,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31776/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "16b462a4a1",
@@ -30760,7 +31758,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17333/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "df6fe395df",
@@ -30953,7 +31952,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29848/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "30077c24ec",
@@ -31024,7 +32024,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17352/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a0f016a3b1",
@@ -31090,7 +32091,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30678/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d7e916aaa6",
@@ -31135,8 +32137,13 @@ window.FU_DATA = {
    "site": "https://mgimopravo.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mgimo.pravo@mail.ru",
+    "vberezko@yandex.ru"
+   ],
+   "phones": [
+    "+7 (495) 439-74-72"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -31149,7 +32156,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30579/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "3ff5f35d75",
@@ -31234,7 +32242,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17491/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "06f2514af4",
@@ -31296,7 +32305,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29850/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a631e34f38",
@@ -31370,7 +32380,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31210/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e73f100932",
@@ -31416,15 +32427,27 @@ window.FU_DATA = {
    "site": "http://enforcement.omsu.ru/jour",
    "author_page": "http://enforcement.omsu.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "omsk.ler@gmail.com",
+    "omsk.post@gmail.com",
+    "maslov.omsu@gmail.com",
+    "olga8986@mail.ru"
+   ],
+   "phones": [
+    "+7 3812 22 59 54"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://enforcement.omsu.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата с авторов за публикацию не взимается.",
+     "url": "http://enforcement.omsu.ru/jour/about/submissions"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -31437,7 +32460,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17492/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "f1c01c1270",
@@ -31560,7 +32584,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31962/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f8b679c4a4",
@@ -31630,7 +32655,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31019/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "101c879a3a",
@@ -31689,7 +32715,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31548/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c1c05f7a0e",
@@ -31755,7 +32782,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29852/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4761d54449",
@@ -31836,7 +32864,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17523/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "51f4b8ec9a",
@@ -32033,7 +33062,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30585/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "bbe12cf822",
@@ -32238,7 +33268,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17549/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a4f2a6f7b3",
@@ -32283,8 +33314,12 @@ window.FU_DATA = {
    "site": "https://www.risk-journal.com",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "parjournal@mail.ru"
+   ],
+   "phones": [
+    "+7 (495) 287-73-05"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -32297,7 +33332,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30746/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "bb099251fe",
@@ -32432,7 +33468,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31020/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "36f535596a",
@@ -32501,7 +33538,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29863/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a9cbf600ce",
@@ -32720,7 +33758,9 @@ window.FU_DATA = {
    "site": "http://www.postsovietarea.com",
    "author_page": "http://www.postsovietarea.com/jour/about/submissions",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "postsowetskoe.prostranstvo@yandex.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -32741,7 +33781,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32000/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "6eed499f39",
@@ -32824,7 +33865,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29867/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1d21e5d562",
@@ -33005,7 +34047,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30084/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "28b72a46a7",
@@ -33074,7 +34117,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31576/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "49b947fcc8",
@@ -33135,7 +34179,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31021/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "eac9ec5748",
@@ -33319,7 +34364,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29871/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ead6b10a20",
@@ -33440,7 +34486,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29873/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ced9835277",
@@ -33525,7 +34572,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32028/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2c2cbd4de3",
@@ -33591,7 +34639,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29874/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8d10505586",
@@ -33673,7 +34722,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28619/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "cabffca44e",
@@ -33803,7 +34853,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31952/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d165b51b4f",
@@ -33894,7 +34945,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17755/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c163721169",
@@ -33975,7 +35027,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31429/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fa9daa6559",
@@ -34128,7 +35181,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17830/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ff2f51ae5d",
@@ -34259,7 +35313,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17824/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3ba07b2db1",
@@ -34391,7 +35446,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29877/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7d2b2b137a",
@@ -34462,7 +35518,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31445/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1b3b6c731d",
@@ -34529,7 +35586,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29880/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ef31bf5677",
@@ -34599,7 +35657,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29882/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "edabeb167a",
@@ -34820,7 +35879,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29887/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "686112811d",
@@ -34896,7 +35956,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31925/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "76fee6a7e7",
@@ -34941,13 +36002,28 @@ window.FU_DATA = {
    "site": "http://www.fin-izdat.ru/journal/region/about.php",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "post@fin-izdat.ru"
+   ],
+   "phones": [
+    "+7 (925) 966 4690",
+    "+7 (925) 966-4690"
+   ],
    "site_ok": false,
    "price": null,
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Стоимость размещения статьи в открытом доступе для журнала см.",
+     "url": "http://www.fin-izdat.ru/journal/region/about.php"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Срок рецензирования рукописей не должен превышать 30 календарных дней с момента направления рукописи рецензенту.",
+     "url": "http://www.fin-izdat.ru/authors/regulations/"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.fin-izdat.ru/journal/region/about.php",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -34955,7 +36031,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31028/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "3affc2d049",
@@ -35037,7 +36114,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31861/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b46f69f976",
@@ -35113,7 +36191,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31320/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c58cc0b426",
@@ -35224,8 +36303,13 @@ window.FU_DATA = {
    "site": "https://risk-online.ru/index.php/risk",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "itkorbook@mail.ru"
+   ],
+   "phones": [
+    "+7(916) 032-26-25",
+    "+7 (916) 032-26-25"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -35238,7 +36322,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31030/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "d3f89b6ea7",
@@ -35545,7 +36630,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30823/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "507527ae7a",
@@ -35621,7 +36707,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30685/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "cdc358c50f",
@@ -35699,7 +36786,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19128/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ad377b1ad2",
@@ -35849,7 +36937,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31036/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "135df70828",
@@ -35972,7 +37061,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31037/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8ebfb0e1cf",
@@ -36017,13 +37107,22 @@ window.FU_DATA = {
    "site": "http://www.re-j.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "shafranskaya.a@mfua.ru"
+   ],
+   "phones": [
+    "+7-953-740-66-79"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Максимальный срок рецензирования – между датами поступления (варианта) рукописи в редакцию и вынесения редколлегией решения – составляет 2 месяца.",
+     "url": "http://www.re-j.ru/for_authors/"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.re-j.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -36031,7 +37130,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29907/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "741e940e03",
@@ -36148,7 +37248,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30287/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "babab6eb5f",
@@ -36280,7 +37381,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28317/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "acf5c3c05c",
@@ -36409,7 +37511,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29909/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9090a5b74d",
@@ -36520,7 +37623,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28341/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "92e174837f",
@@ -36660,7 +37764,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29910/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "163165fe33",
@@ -36726,7 +37831,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31040/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e7c4b9209d",
@@ -36792,7 +37898,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31809/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ac2d760858",
@@ -36932,7 +38039,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28453/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9d5324b242",
@@ -37063,7 +38171,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32018/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fcb92bcbcf",
@@ -37207,7 +38316,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19589/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9d132484f5",
@@ -37448,7 +38558,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19594/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e18b7a1469",
@@ -37521,7 +38632,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19593/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "30c9bc57fd",
@@ -37565,7 +38677,10 @@ window.FU_DATA = {
    "site": "https://sibphil.elpub.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "philos@vestnik.nsu.ru",
+    "diev@smile.nsu.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -37579,7 +38694,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30117/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "2094f90687",
@@ -37650,7 +38766,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31117/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "77ff7458bb",
@@ -37695,7 +38812,12 @@ window.FU_DATA = {
    "site": "https://www.siberianlawreview.ru/",
    "author_page": "https://www.siberianlawreview.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "nauka@siblu.ru/",
+    "nauka@siblu.ru",
+    "rector@siblu.ru",
+    "ol_beketov@mail.ru,"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -37716,7 +38838,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30464/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "3fe98d455b",
@@ -37786,7 +38909,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31602/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "59c65985f4",
@@ -37855,7 +38979,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31330/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "56880ea184",
@@ -37898,7 +39023,7 @@ window.FU_DATA = {
     "category": null,
     "specialties": []
    },
-   "site": null,
+   "site": "http://www.ipiran.ru/journal_system/",
    "author_page": null,
    "rinc": true,
    "emails": [],
@@ -38112,7 +39237,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28540/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fac3e1d853",
@@ -38199,7 +39325,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/4611/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2060b52b9d",
@@ -38292,7 +39419,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29932/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9ef53f10d0",
@@ -38337,8 +39465,12 @@ window.FU_DATA = {
    "site": "https://www.moderncompetition.ru/",
    "author_page": "https://www.moderncompetition.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "evlasova@synergy.ru"
+   ],
+   "phones": [
+    "+7 495 987-43-74"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -38358,7 +39490,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30124/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "72c6ff70e8",
@@ -38455,7 +39588,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31115/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "661fd3b91c",
@@ -38585,7 +39719,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30080/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e86dd31ae3",
@@ -38630,8 +39765,12 @@ window.FU_DATA = {
    "site": "https://www.philosmgou.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "sj@guppros.ru"
+   ],
+   "phones": [
+    "8 (495) 780-09-42"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -38644,7 +39783,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30843/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "80a2c40c5c",
@@ -38732,7 +39872,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19738/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a750d98966",
@@ -38970,7 +40111,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31251/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "dfa3c7501a",
@@ -39305,7 +40447,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28592/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8d364094ef",
@@ -39392,7 +40535,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19799/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5bbe8506bc",
@@ -39455,7 +40599,11 @@ window.FU_DATA = {
    "site": "https://socofpower.ranepa.ru/",
    "author_page": "https://socofpower.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "soc.of.power@gmail.com",
+    "anton.smolkin@gmail.com",
+    "asterius@gmail.com"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -39463,7 +40611,16 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "https://socofpower.ranepa.ru/"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Авторские сборы: публикация в журнале для авторов бесплатна",
+     "url": "https://socofpower.ranepa.ru/"
+    },
+    {
+     "text": "Публикация является бесплатной.",
+     "url": "https://socofpower.ranepa.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -39476,7 +40633,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29937/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "f528dfa41e",
@@ -39566,7 +40724,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30856/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "50e49a4364",
@@ -39645,7 +40804,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29938/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "144db10fc3",
@@ -39690,7 +40850,9 @@ window.FU_DATA = {
    "site": "https://siv.ranepa.ru/jour/",
    "author_page": "https://siv.ranepa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "socium-i-vlast-ion@ranepa.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -39698,12 +40860,26 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "https://siv.ranepa.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию: публикация в журнале для всех авторов бесплатная.",
+     "url": "https://siv.ranepa.ru/jour/"
+    },
+    {
+     "text": "Плата за рецензирование и публикацию рукописей не взимается.",
+     "url": "https://siv.ranepa.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Решение о публикации направленных в журнал материалов принимается в течение 3 месяцев со дня получения рукописи в редакции с учетом времени на устранение замечаний.",
+     "url": "https://siv.ranepa.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://siv.ranepa.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -39711,7 +40887,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31308/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5e59c3177a",
@@ -39814,7 +40991,9 @@ window.FU_DATA = {
    "site": "https://www.sravpol.ru/jour/index",
    "author_page": "https://www.sravpol.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "sravpol@inno.mgimo.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -39835,7 +41014,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/20052/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "4cb5d7cc49",
@@ -39909,7 +41089,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29940/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9fcdf1ef47",
@@ -39985,7 +41166,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31212/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8c959d7462",
@@ -40088,8 +41270,15 @@ window.FU_DATA = {
    "site": "http://statecon.rea.ru/",
    "author_page": "http://statecon.rea.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "egorova.ea@rea.ru",
+    "minashkin.vg@rea.ru",
+    "anikeeva.ei@rea.ru"
+   ],
+   "phones": [
+    "+7-495-237-83-31",
+    "+7-495-958-29-10"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -40109,7 +41298,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30160/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "ccc79629a4",
@@ -40154,20 +41344,34 @@ window.FU_DATA = {
    "site": "http://www.jsdrm.ru",
    "author_page": "http://www.jsdrm.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "info@jsdrm.ru"
+   ],
+   "phones": [
+    "+7 (812) 346-50-15"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.jsdrm.ru/jour/about/editorialPolicies#custom-5"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Статьи принимаются бесплатно.",
+     "url": "http://www.jsdrm.ru"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Сроки рецензирования статей определяются главным редактором журнала с учетом условия максимально оперативного ответа автору публикации и составляют не более 30 рабочих дней со дня их поступления к рецензенту.",
+     "url": "http://www.jsdrm.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://www.jsdrm.ru/jour/about/submissions",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -40175,7 +41379,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30316/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "1eba0d72ba",
@@ -40273,7 +41478,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29946/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ed8d1c74f7",
@@ -40404,7 +41610,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/20625/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8d44ef7224",
@@ -40476,7 +41683,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31458/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "851e2e1215",
@@ -40551,7 +41759,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31635/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "669de95575",
@@ -40702,7 +41911,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31237/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e5c5feaf1d",
@@ -40820,7 +42030,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/20764/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "42343d5890",
@@ -40880,7 +42091,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31064/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a6ce0b8248",
@@ -40946,7 +42158,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31571/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4d3dd36564",
@@ -41083,7 +42296,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21047/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7f0c3e014a",
@@ -41160,7 +42374,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31919/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7d4e19219e",
@@ -41263,8 +42478,12 @@ window.FU_DATA = {
    "site": "https://ispranproceedings.elpub.ru/jour/index",
    "author_page": "https://ispranproceedings.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "proceedings@ispras.ru"
+   ],
+   "phones": [
+    "+7-495-912-44-25"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -41284,7 +42503,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29974/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5c3759c845",
@@ -41358,7 +42578,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31425/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "8066093897",
@@ -41599,7 +42820,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31830/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fa568157aa",
@@ -41665,7 +42887,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31243/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "098c56b73e",
@@ -41768,15 +42991,29 @@ window.FU_DATA = {
    "site": "https://www.umj.ru/jour",
    "author_page": "https://www.umj.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "publishing@umj.ru"
+   ],
+   "phones": [
+    "+7(343) 371-56-04",
+    "+7 912 640-38-22"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.umj.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Плата за публикации не взимается.",
+     "url": "https://www.umj.ru/jour"
+    },
+    {
+     "text": "Доступность : публикация в журнале является бесплатной .",
+     "url": "https://www.umj.ru/jour"
+    }
+   ],
    "term": {
     "text": "≈ 10 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -41789,7 +43026,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29981/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "153297da94",
@@ -41857,7 +43095,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21207/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6fdd7d3aa9",
@@ -41903,7 +43142,9 @@ window.FU_DATA = {
    "author_page": "https://upravlenie.guu.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
    "emails": [],
-   "phones": [],
+   "phones": [
+    "+7 (495) 377-90-05"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -41923,7 +43164,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31779/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "6c9035201c",
@@ -41969,13 +43211,30 @@ window.FU_DATA = {
    "site": "http://ubs.mtas.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "avgorbunova@bk.ru",
+    "novikov@ipu.ru"
+   ],
    "phones": [],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "http://ubs.mtas.ru/authors/avtors.php"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата с авторов за публикацию рукописей не взимается.",
+     "url": "http://ubs.mtas.ru/authors/avtors.php"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Время опубликования принятой к публикации статьи - 3-4 месяца.",
+     "url": "http://ubs.mtas.ru/authors/avtors.php"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://ubs.mtas.ru/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -41983,7 +43242,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29982/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "d1f57cfe1e",
@@ -42071,7 +43331,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30538/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1af6f74c72",
@@ -42134,7 +43395,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31419/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "338d06c8db",
@@ -42179,15 +43441,25 @@ window.FU_DATA = {
    "site": "https://managementscience.fa.ru",
    "author_page": "https://managementscience.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "sfmihajlova@fa.ru",
+    "uprnauki@mail.ru"
+   ],
+   "phones": [
+    "+7 (499) 553-10-84"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://managementscience.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале для авторов бесплатная: плата за подготовку, размещение и печать материалов не взимается.",
+     "url": "https://managementscience.fa.ru/jour/about/submissions"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -42200,7 +43472,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31750/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "044377d86b",
@@ -42245,8 +43518,14 @@ window.FU_DATA = {
    "site": "http://acjournal.ru",
    "author_page": "https://www.acjournal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "acjournal@ranepa.ru",
+    "vanya2008@mail.ru"
+   ],
+   "phones": [
+    "+7 (812) 335-42-10",
+    "+7(812) 335-94-94"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -42266,7 +43545,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31074/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "44e9034710",
@@ -42333,7 +43613,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29098/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2351645f4c",
@@ -42408,7 +43689,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29097/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "be1f429fb3",
@@ -42595,7 +43877,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31176/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "681a0d9095",
@@ -42703,7 +43986,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28779/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ced29c01c6",
@@ -42778,7 +44062,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21147/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "087f64b82f",
@@ -42841,7 +44126,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30762/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d7bd7bca1e",
@@ -42886,8 +44172,13 @@ window.FU_DATA = {
    "site": "https://uzakugu.elpub.ru/jour/index?locale=en_US#",
    "author_page": "https://uzakugu.elpub.ru/jour/about/submissions?locale=en_US#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "l.a.v.e.90@mail.ru"
+   ],
+   "phones": [
+    "8(937)529-44-77",
+    "89375294477"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -42907,7 +44198,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31374/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "1d39e8aa52",
@@ -42970,8 +44262,14 @@ window.FU_DATA = {
    "site": "https://uzakufismat.elpub.ru/jour/index?locale=en_US#",
    "author_page": "https://uzakufismat.elpub.ru/jour/about/submissions?locale=en_US#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "dmitry.tayurskii@kpfu.ru",
+    "uz.ku@kpfu.ru"
+   ],
+   "phones": [
+    "+7 (843) 206-54-41",
+    "+7 903 305-06-08"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -42991,7 +44289,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21144/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "c72190a4b2",
@@ -43064,7 +44363,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30138/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "569a503183",
@@ -43126,7 +44426,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31067/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c34e35a34c",
@@ -43171,15 +44472,26 @@ window.FU_DATA = {
    "site": "https://accounting.fa.ru",
    "author_page": "https://accounting.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "an5er@mail.ru"
+   ],
+   "phones": [
+    "+7 (499) 553-10-84",
+    "8-9303-2026-13",
+    "8-9303-2025-12"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://accounting.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикация в журнале для авторов бесплатная: плата за подготовку, размещение и печать материалов не взимается.",
+     "url": "https://accounting.fa.ru/jour/about/submissions"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -43192,7 +44504,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31930/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "ec6861aff8",
@@ -43437,7 +44750,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30164/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "98993f714c",
@@ -43499,7 +44813,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/7008/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "026025ac21",
@@ -43576,7 +44891,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30436/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9bd4cc4102",
@@ -43643,7 +44959,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30006/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a705d1ddb4",
@@ -43781,7 +45098,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23943/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "656318f10f",
@@ -43861,7 +45179,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23944/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ac9d936608",
@@ -43906,7 +45225,9 @@ window.FU_DATA = {
    "site": "https://www.phisci.info",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "academyrh@list.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -43920,7 +45241,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31085/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "1714a8ba46",
@@ -44009,7 +45331,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/7015/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "227d51cae8",
@@ -44133,7 +45456,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31253/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "5146af0d32",
@@ -44213,7 +45537,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30008/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "61586b5d67",
@@ -44395,20 +45720,36 @@ window.FU_DATA = {
    "site": "http://financetp.fa.ru/",
    "author_page": "http://financetp.fa.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "isdovgal@fa.ru",
+    "vestnikfinu@mail.ru",
+    "sfmihajlova@fa.ru"
+   ],
+   "phones": [
+    "+7 (499) 553-10-71"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://financetp.fa.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "http://financetp.fa.ru/jour/about/submissions"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Максимальный срок рецензирования 1–2 месяца.",
+     "url": "http://financetp.fa.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://financetp.fa.ru/jour/about/submissions",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -44416,7 +45757,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23947/",
-   "review": "Unspecified peer review"
+   "review": "Unspecified peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "2fed3b094e",
@@ -44726,7 +46068,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31091/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "060000284d",
@@ -44931,7 +46274,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31652/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e7deccd8f6",
@@ -44975,7 +46319,9 @@ window.FU_DATA = {
    "site": "https://www.digitallawjournal.org/",
    "author_page": "https://www.digitallawjournal.org/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "dlj@digitallawjournal.org"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -44996,7 +46342,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30574/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "656e24e1bf",
@@ -45092,11 +46439,25 @@ window.FU_DATA = {
    "site": "https://www.chebsbornik.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "cheb@tspu.tula.ru",
+    "cheb@tsput.ru",
+    "chubarik2009@live.ru",
+    "dobrovol@tspu.tula.ru"
+   ],
    "phones": [],
    "site_ok": false,
-   "price": null,
-   "price_mentions": [],
+   "price": {
+    "text": "Бесплатно (по данным сайта журнала)",
+    "src": "site",
+    "url": "https://www.chebsbornik.ru/jour/"
+   },
+   "price_mentions": [
+    {
+     "text": "Плата за публикацию и редакционную подготовку статей с авторов не взимается.",
+     "url": "https://www.chebsbornik.ru/jour/"
+    }
+   ],
    "term": null,
    "term_mentions": [],
    "how_to_submit": [
@@ -45106,7 +46467,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/22917/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "294f4b501f",
@@ -45313,7 +46675,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/8338/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f3ed2daebf",
@@ -45476,7 +46839,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/22929/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "dd5e80970b",
@@ -45541,7 +46905,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30023/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "634cc78381",
@@ -45613,7 +46978,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31094/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ec6e4547cd",
@@ -45679,7 +47045,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31095/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0ceb19db81",
@@ -45788,8 +47155,16 @@ window.FU_DATA = {
    "site": "https://www.ecology-kalvis.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "ecip1996@yandex.ru",
+    "info@kalvis.ru",
+    "noskov@catalysis.ru",
+    "pogodkina.ecip@catalysis.ru"
+   ],
+   "phones": [
+    "+7(963) 664-77-65",
+    "+7(495) 913-80-94"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -45802,7 +47177,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23590/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "f7dea20f5a",
@@ -45905,8 +47281,15 @@ window.FU_DATA = {
    "site": "https://emjume.elpub.ru/",
    "author_page": "https://emjume.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "izdat-ime@yandex.ru",
+    "zdat-ime@yandex.ru",
+    "rector@spbume.ru",
+    "v.kunin50@yandex.ru"
+   ],
+   "phones": [
+    "+7 (812) 449-08-33"
+   ],
    "site_ok": false,
    "price": {
     "text": "15300 RUB (APC, по данным DOAJ)",
@@ -45926,7 +47309,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31097/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "5c9913c293",
@@ -45970,7 +47354,9 @@ window.FU_DATA = {
    "site": "http://ecna.elpub.ru/jour",
    "author_page": "http://ecna.elpub.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "ecna@ranepa.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -45978,7 +47364,12 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "http://ecna.elpub.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Экономика науки поддерживает алмазный открытый доступ (бесплатная подача и чтение), двойное слепое рецензирование и поощряет разнообразие авторов по географическим регионам, стадиям карьеры и применяемым методологиям.",
+     "url": "http://ecna.elpub.ru/jour"
+    }
+   ],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -45991,7 +47382,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32037/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "b16249a329",
@@ -46036,13 +47428,32 @@ window.FU_DATA = {
    "site": "https://ecoprom.misis.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "ecoprom.misis@mail.ru",
+    "ecoprom@misis.ru"
+   ],
+   "phones": [
+    "+7 (499) 236-16-87"
+   ],
    "site_ok": false,
    "price": null,
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "С редакционной политикой в части оплаты публикаций можно ознакомиться по ссылке: https://ecoprom.misis.ru/jour/about/editorialPolicies#custom-4",
+     "url": "https://ecoprom.misis.ru/jour/"
+    }
+   ],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "2.1 Первичное рецензирование (2-4 недели).",
+     "url": "https://ecoprom.misis.ru/jour/about/submissions"
+    },
+    {
+     "text": "2.2 Вторичное рецензирование (1-2 недели).",
+     "url": "https://ecoprom.misis.ru/jour/about/submissions"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://ecoprom.misis.ru/jour/",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -46050,7 +47461,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31375/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "7f35e6175e",
@@ -46133,7 +47545,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/5759/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fbc16ac0ef",
@@ -46178,7 +47591,12 @@ window.FU_DATA = {
    "site": "http://esxr.ru/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "agro2018@mail.ru",
+    "serg1784@mail.ru",
+    "zasratyan@yahoo.com",
+    "korotp@bk.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -46192,7 +47610,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30027/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "32b2cdb424",
@@ -46391,7 +47810,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31975/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "4da4268799",
@@ -46493,13 +47913,24 @@ window.FU_DATA = {
    "site": "http://xn----8sberiayke3ai0ax4i.xn--p1ai/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "science@vniiesh.ru"
+   ],
+   "phones": [
+    "8 (495) 100-00-00",
+    "8 (495) 100-00-11",
+    "8 (499) 195-30-97"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
    "term": null,
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Сроки рецензирования составляют до 2 месяцев со дня получения редакцией рукописи.",
+     "url": "http://xn----8sberiayke3ai0ax4i.xn--p1ai/page/3"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: http://xn----8sberiayke3ai0ax4i.xn--p1ai/",
     "Подайте рукопись в редакцию способом, указанным на сайте журнала",
@@ -46507,7 +47938,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31454/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "7345dc9e62",
@@ -46583,7 +48015,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30582/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ab66c331cc",
@@ -46628,8 +48061,12 @@ window.FU_DATA = {
    "site": "https://etl.fa.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "vashadrin@fa.ru"
+   ],
+   "phones": [
+    "8 (499) 553-10-72"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -46642,7 +48079,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31283/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "689be05cd9",
@@ -46713,7 +48151,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/32061/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2f9f4382fc",
@@ -46797,7 +48236,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30564/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9af4c05cc6",
@@ -46842,8 +48282,15 @@ window.FU_DATA = {
    "site": "https://www.ecr-journal.ru",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "ecr-ras@yandex.ru",
+    "maev1941@bk.ru",
+    "rybachuk@cemi.rssi.ru"
+   ],
+   "phones": [
+    "+7 (925) 712 29 35",
+    "+7 (499) 724 21 39"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -46856,7 +48303,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30864/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "7b3822ac4c",
@@ -46915,8 +48363,15 @@ window.FU_DATA = {
    "site": "https://www.ecpolicy.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "mail@ecpolicy.ru",
+    "dsm@iep.ru",
+    "aganbegyan@ranepa.ru",
+    "marek.dabrowski@case-research.eu"
+   ],
+   "phones": [
+    "+7 (495) 691-77-21"
+   ],
    "site_ok": false,
    "price": null,
    "price_mentions": [],
@@ -46929,7 +48384,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/5902/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "1e68c0209b",
@@ -47010,7 +48466,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/11596/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "f2524e1b67",
@@ -47316,7 +48773,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30901/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b94ca4c91c",
@@ -47460,7 +48918,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/5910/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9dc978956c",
@@ -47530,7 +48989,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30030/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9b49157d32",
@@ -47588,7 +49048,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31918/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2bc1504dae",
@@ -47664,7 +49125,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/10409/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "90931ed67e",
@@ -47803,7 +49265,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/6284/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b790907a69",
@@ -47936,7 +49399,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23787/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6638f34f7a",
@@ -48066,7 +49530,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30370/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b0b7045051",
@@ -48188,7 +49653,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31475/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ed9bf937ad",
@@ -48270,7 +49736,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30217/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "96926ac2b6",
@@ -48337,7 +49804,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31104/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ea995ca064",
@@ -48404,7 +49872,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31105/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "55a0061d3c",
@@ -48464,7 +49933,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21698/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "140d340d95",
@@ -48509,20 +49979,35 @@ window.FU_DATA = {
    "site": "https://www.japanjournal.ru/jour/index",
    "author_page": "https://www.japanjournal.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "japanstudiesinrussia@gmail.com",
+    "lexyana@ya.ru"
+   ],
+   "phones": [
+    "+7 (499) 124-06-01"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.japanjournal.ru/jour/about/editorialPolicies#custom-3"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Подача, рецензирование, редактирование и публикация статей в журнале являются бесплатными.",
+     "url": "https://www.japanjournal.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "Максимальный срок рассмотрения обращения не может превышать три месяца.",
+     "url": "https://www.japanjournal.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.japanjournal.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -48530,7 +50015,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/10517/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "907a244c75",
@@ -48601,7 +50087,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/22/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "59182092fe",
@@ -48673,7 +50160,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/21926/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a09bc099cf",
@@ -48731,7 +50219,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31122/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "780c029e4b",
@@ -48803,7 +50292,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30772/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "56706d96fb",
@@ -48871,7 +50361,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29466/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "30a22a8f1f",
@@ -48949,7 +50440,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30602/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2897d56ec2",
@@ -49000,15 +50492,24 @@ window.FU_DATA = {
    "site": "http://www.bricslawjournal.com",
    "author_page": "http://www.bricslawjournal.com/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "bricslaw@gmail.com"
+   ],
+   "phones": [
+    "+79044929060"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "http://www.bricslawjournal.com/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "The BRICS Law Journal is an open-access journal with no publication fees for authors.",
+     "url": "http://www.bricslawjournal.com/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -49021,7 +50522,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/2993/",
-   "review": "Unspecified peer review"
+   "review": "Unspecified peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "345218ee5f",
@@ -49161,7 +50663,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/3663/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "9901ce34a3",
@@ -49316,7 +50819,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/23386/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2e0b05811f",
@@ -49430,7 +50934,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30527/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e1e362efc5",
@@ -49483,7 +50988,12 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "https://e-management.guu.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикации для авторов бесплатны.",
+     "url": "https://e-management.guu.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -49496,7 +51006,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30418/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "9e3c8caf25",
@@ -49587,7 +51098,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28398/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e94c404f80",
@@ -49673,7 +51185,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30270/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e526876613",
@@ -49808,7 +51321,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29469/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ba230e0e26",
@@ -49946,7 +51460,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/25773/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2926047040",
@@ -50101,7 +51616,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/12394/",
-   "review": "Double anonymous peer review, Open peer review, Single anonymous peer review"
+   "review": "Double anonymous peer review, Open peer review, Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1bd3124e58",
@@ -50169,7 +51685,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30475/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1a515385aa",
@@ -50265,7 +51782,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/13622/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a35405e5d3",
@@ -50316,7 +51834,9 @@ window.FU_DATA = {
    "site": "https://kulawr.msal.ru/jour/",
    "author_page": null,
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "kulawr@msal.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": null,
@@ -50330,7 +51850,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/26482/",
-   "review": null
+   "review": null,
+   "carried_from": "2026-10-25"
   },
   {
    "id": "61138f93b6",
@@ -50406,7 +51927,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30684/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "03a60029f6",
@@ -50537,7 +52059,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31950/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "49aa02d236",
@@ -50612,7 +52135,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30306/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "7269d4ed31",
@@ -50800,7 +52324,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30583/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "32bd77fd02",
@@ -50859,7 +52384,10 @@ window.FU_DATA = {
    "site": "https://kigiran.elpub.ru/",
    "author_page": "https://kigiran.elpub.ru/jour/about/submissions",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    "kncran@yandex.ru",
+    "badmav07@yandex.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -50880,7 +52408,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/27283/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "2cc6e3fc16",
@@ -50970,7 +52499,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/16997/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "6bc1c06258",
@@ -51114,7 +52644,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/27566/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a47af6ad43",
@@ -51199,7 +52730,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17834/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "49393b94fe",
@@ -51290,7 +52822,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/17950/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "1506db55ea",
@@ -51378,7 +52911,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/27803/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "c15d28501d",
@@ -51443,7 +52977,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/18197/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "bceb98233d",
@@ -51497,8 +53032,12 @@ window.FU_DATA = {
    "site": "https://rbes.fa.ru",
    "author_page": "https://rbes.fa.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "ambotchkarev@fa.ru"
+   ],
+   "phones": [
+    "8 (499) 553-10-74"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -51518,7 +53057,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/31802/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "6d78ab354e",
@@ -51580,8 +53120,12 @@ window.FU_DATA = {
    "site": "https://www.japanreview.ru/jour",
    "author_page": "https://www.japanreview.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "japanstudiesinrussia@gmail.com"
+   ],
+   "phones": [
+    "+7 495 124 06 01"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
@@ -51601,7 +53145,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30621/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "36a29760fc",
@@ -51690,7 +53235,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28331/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "e0d92b97ed",
@@ -51734,7 +53280,10 @@ window.FU_DATA = {
    "site": "https://www.rusjel.ru",
    "author_page": "https://www.rusjel.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
+   "emails": [
+    " rusjel@ieml.ru",
+    "rusjel@ieml.ru"
+   ],
    "phones": [],
    "site_ok": false,
    "price": {
@@ -51742,7 +53291,12 @@ window.FU_DATA = {
     "src": "doaj",
     "url": "https://www.rusjel.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикации бесплатны как для авторов, так и для читателей (Platinum Open Access).",
+     "url": "https://www.rusjel.ru"
+    }
+   ],
    "term": {
     "text": "≈ 12 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
@@ -51755,7 +53309,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30706/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "16e5389128",
@@ -51826,7 +53381,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30409/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "3ab2250aeb",
@@ -51933,7 +53489,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19170/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b0f88027ec",
@@ -52061,7 +53618,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19172/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "0c028241c3",
@@ -52131,7 +53689,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28338/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "b688d1e099",
@@ -52177,20 +53736,45 @@ window.FU_DATA = {
    "site": "https://www.rtj-mirea.ru",
    "author_page": "https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines",
    "rinc": true,
-   "emails": [],
-   "phones": [],
+   "emails": [
+    "seredina@mirea.ru",
+    "sigov@mirea.ru",
+    "rector@mirea.ru",
+    "juras.banys@ff.vu.lt"
+   ],
+   "phones": [
+    "+7 499 600-80-80"
+   ],
    "site_ok": false,
    "price": {
     "text": "Бесплатно (плата за публикацию не взимается, по данным DOAJ)",
     "src": "doaj",
     "url": "https://www.rtj-mirea.ru/jour/about/editorialPolicies#custom-4"
    },
-   "price_mentions": [],
+   "price_mentions": [
+    {
+     "text": "Публикация статей в журнале бесплатна для авторов.",
+     "url": "https://www.rtj-mirea.ru"
+    },
+    {
+     "text": "Редакция не взимает плату с авторов за подготовку, размещение и печать материалов.",
+     "url": "https://www.rtj-mirea.ru"
+    },
+    {
+     "text": "ORCID – открытая бесплатная система регистрации всех ученых мира, пишущих статьи.",
+     "url": "https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "term": {
     "text": "≈ 8 нед. от подачи до публикации (по данным DOAJ)",
     "src": "doaj"
    },
-   "term_mentions": [],
+   "term_mentions": [
+    {
+     "text": "На подготовку англоязычной версии требуется значительное время, поэтому перевод на английский язык статей, прошедших рецензирование и одобренных к публикации, осуществляется заблаговременно - за 3-4 месяца до выпуска журнала.",
+     "url": "https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines"
+    }
+   ],
    "how_to_submit": [
     "Изучите требования к оформлению и публикационную этику на сайте журнала: https://www.rtj-mirea.ru/jour/about/submissions#authorGuidelines",
     "Зарегистрируйтесь в системе подачи (OJS) на сайте журнала и загрузите рукопись с метаданными (аннотация, ключевые слова, сведения об авторах)",
@@ -52198,7 +53782,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30739/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "carried_from": "2026-10-25"
   },
   {
    "id": "a926d86849",
@@ -52263,7 +53848,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29472/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "fc4f9e7587",
@@ -52343,7 +53929,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/19714/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "67233716bb",
@@ -52430,7 +54017,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30329/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "55aa137451",
@@ -52495,7 +54083,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28654/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "a92774457f",
@@ -52558,7 +54147,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/30430/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "ebb3b25cbe",
@@ -52654,7 +54244,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28766/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "df13e72e4a",
@@ -52739,7 +54330,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/20571/",
-   "review": null
+   "review": null,
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d21cda8dd3",
@@ -52890,7 +54482,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/28970/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "d772c2ba0a",
@@ -52963,7 +54556,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29099/",
-   "review": "Single anonymous peer review"
+   "review": "Single anonymous peer review",
+   "updated_on": "2026-10-25"
   },
   {
    "id": "2ade6bb664",
@@ -53043,7 +54637,8 @@ window.FU_DATA = {
    ],
    "notes": null,
    "egpni_url": "https://journalrank.rcsi.science/ru/record-sources/details/29291/",
-   "review": "Double anonymous peer review"
+   "review": "Double anonymous peer review",
+   "updated_on": "2026-10-25"
   }
  ]
 };

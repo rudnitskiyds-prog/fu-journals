@@ -142,6 +142,7 @@
         ${j.author_page ? `<div>Для авторов: ${link(j.author_page)}</div>` : ""}
         ${(j.emails || []).length ? `<div>E-mail: ${j.emails.map((x) => `<a href="mailto:${esc(x)}">${esc(x)}</a>`).join(", ")}</div>` : ""}
         ${(j.phones || []).length ? `<div>Телефон: ${j.phones.map(esc).join(", ")}</div>` : ""}
+        ${j.carried_from ? `<div class="jsub">Сайт не ответил при последнем обновлении — контакты по состоянию на ${fmtDate(j.carried_from)}.</div>` : ""}
       </div>
 
       <h3>Как подать статью</h3>

@@ -485,6 +485,26 @@ def default_howto(j):
     return steps
 
 
+CARRY = ("emails", "phones", "price_mentions", "term_mentions", "site")
+
+
+def carry_over(old, new):
+    """Если сайт журнала в этот раз не ответил (часть российских сайтов закрыта
+    для зарубежных серверов), сохраняем найденное в прошлых выпусках."""
+    prev = {j["id"]: j for j in old}
+    for j in new:
+        o = prev.get(j["id"])
+        if not o or j.get("site_ok"):
+            continue
+        for k in CARRY:
+            if not j.get(k) and o.get(k):
+                j[k] = o[k]
+        if not j.get("price") and (o.get("price") or {}).get("src") == "site":
+            j["price"] = o["price"]
+        if any(j.get(k) for k in CARRY[:4]):
+            j["carried_from"] = o.get("carried_from") or o.get("updated_on")
+
+
 def diff(old, new):
     """Изменения между выпусками: уровень ЕГПНИ, квартиль Scopus, ВАК, индексация."""
     prev = {j["id"]: j for j in old}
@@ -519,6 +539,10 @@ def main():
     out_file = OUT / "journals.json"
     old = json.loads(out_file.read_text(encoding="utf-8"))["journals"] if out_file.exists() else []
     today = dt.date.today().isoformat()
+    for j in journals:
+        if j.get("site_ok"):
+            j["updated_on"] = today
+    carry_over(old, journals)
 
     hist_file = OUT / "changes.json"
     history = json.loads(hist_file.read_text(encoding="utf-8")) if hist_file.exists() else []
