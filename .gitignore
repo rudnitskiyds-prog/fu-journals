@@ -1,0 +1,5 @@
+data/cache/
+data/last_build.log
+__pycache__/
+.DS_Store
+.claude/

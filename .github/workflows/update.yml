@@ -1,0 +1,52 @@
+name: Ежемесячное обновление
+
+on:
+  schedule:
+    - cron: "0 4 3 * *"   # 3-го числа каждого месяца, 07:00 МСК
+  workflow_dispatch:       # ручной запуск: Actions → «Ежемесячное обновление» → Run workflow
+  push:
+    branches: [main]
+    paths: ["site/**"]     # правки сайта публикуются сразу, без пересборки данных
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Сборка данных
+        if: github.event_name != 'push'
+        run: python3 scripts/build.py --fresh
+      - name: Сохранить результат
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "fu-journals bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/data
+          git diff --cached --quiet || git commit -m "Обновление данных $(date +%Y-%m-%d)"
+          git push
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

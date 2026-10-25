@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Журналы Финуниверситета</title>
+<meta name="description" content="Рекомендованные Финансовым университетом журналы: ЕГПНИ, ВАК, Scopus, WoS, РИНЦ, контакты, стоимость и сроки публикации. Обновляется ежемесячно.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">
+      <h1>Журналы Финуниверситета</h1>
+      <p class="sub" id="meta">Загрузка…</p>
+    </div>
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-view="list" role="tab">Журналы</button>
+      <button class="tab" data-view="changes" role="tab">Изменения</button>
+      <button class="tab" data-view="about" role="tab">Об источниках</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <section id="view-list">
+    <div class="stats" id="stats"></div>
+
+    <form class="filters" id="filters" onsubmit="return false">
+      <input id="q" type="search" placeholder="Название, ISSN, издатель…" autocomplete="off">
+      <label>ЕГПНИ / Белый список
+        <select id="f-egpni"><option value="">Любой</option><option value="1">Уровень 1</option><option value="2">Уровень 2</option><option value="3">Уровень 3</option><option value="4">Уровень 4</option><option value="12">Уровень 1–2</option><option value="none">Не входит</option></select>
+      </label>
+      <label>ВАК
+        <select id="f-vak"><option value="">Любой</option><option value="in">В перечне</option><option value="К1">К1</option><option value="К2">К2</option><option value="К3">К3</option><option value="out">Не в перечне</option></select>
+      </label>
+      <label>Scopus
+        <select id="f-scopus"><option value="">Любой</option><option value="in">Индексируется</option><option value="Q1">Q1</option><option value="Q2">Q2</option><option value="Q3">Q3</option><option value="Q4">Q4</option></select>
+      </label>
+      <label>WoS
+        <select id="f-wos"><option value="">Любой</option><option value="in">WoS CC</option></select>
+      </label>
+      <label>Ядро РИНЦ
+        <select id="f-rsci"><option value="">Любой</option><option value="1">Да (RSCI)</option></select>
+      </label>
+      <label>Стоимость
+        <select id="f-price"><option value="">Любая</option><option value="free">Бесплатно</option><option value="known">Есть сведения</option></select>
+      </label>
+      <label class="spec">Специальность ВАК
+        <input id="f-spec" type="search" placeholder="напр. 5.2.4" autocomplete="off">
+      </label>
+      <button type="button" id="reset" class="ghost">Сбросить</button>
+    </form>
+
+    <div class="toolbar">
+      <span id="count"></span>
+      <span class="spacer"></span>
+      <label>Сортировка
+        <select id="sort"><option value="name">По названию</option><option value="egpni">По уровню ЕГПНИ</option><option value="scopus">По квартилю Scopus</option><option value="vak">По категории ВАК</option></select>
+      </label>
+      <button type="button" id="csv" class="ghost">Скачать CSV</button>
+    </div>
+
+    <div class="table-wrap">
+      <table class="grid" id="grid">
+        <thead><tr>
+          <th>Журнал</th><th title="Единый государственный перечень научных изданий (бывший «Белый список»)">ЕГПНИ</th><th>ВАК</th><th>Scopus</th><th>WoS</th><th title="RSCI — ядро РИНЦ">Ядро РИНЦ</th><th>РИНЦ</th><th>Стоимость</th>
+        </tr></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <p class="empty" id="empty" hidden>Ничего не найдено — ослабьте фильтры.</p>
+  </section>
+
+  <section id="view-changes" hidden></section>
+  <section id="view-about" hidden>
+    <div class="prose">
+      <h2>Откуда данные</h2>
+      <p>Список журналов — «Список российских научных журналов, рекомендованных научно-педагогическим работникам Финансового университета» (редакция с 01.04.2026). Данные по каждому журналу пересобираются раз в месяц автоматически.</p>
+      <table class="src">
+        <tr><th>Показатель</th><th>Источник</th></tr>
+        <tr><td>Уровень ЕГПНИ («Белый список»), признаки WoS CC, Scopus, RSCI, отметка перечня ВАК, издатель</td><td><a href="https://journalrank.rcsi.science/ru/record-sources/" target="_blank" rel="noopener">journalrank.rcsi.science</a> (РЦНИ). Действует последний утверждённый уровень.</td></tr>
+        <tr><td>Квартиль Scopus</td><td>SJR (Scimago) из карточки журнала в ЕГПНИ: лучший квартиль за последний доступный год; при наведении — по предметным областям</td></tr>
+        <tr><td>Категория ВАК К1/К2/К3 и специальности</td><td>Файл перечня ВАК с категорированием (загружается в data/vak.csv)</td></tr>
+        <tr><td>Квартиль WoS</td><td>JCR доступен только по подписке Clarivate — вносится вручную; без квартиля показан признак индексации в WoS CC</td></tr>
+        <tr><td>РИНЦ</td><td>Журналы перечня ВАК и ЕГПНИ индексируются в РИНЦ; исключения правятся вручную</td></tr>
+        <tr><td>Сайт, стоимость, срок публикации</td><td><a href="https://doaj.org" target="_blank" rel="noopener">DOAJ</a>, OpenAlex, Crossref, сайты журналов, ручные правки</td></tr>
+        <tr><td>E-mail, телефон, «найдено на сайте»</td><td>Автоматически со страниц сайта журнала — перед подачей сверяйтесь с первоисточником</td></tr>
+      </table>
+      <p class="muted">Метки: <span class="tag src-manual">проверено</span> — внесено вручную, <span class="tag src-doaj">DOAJ</span> — из анкеты журнала в DOAJ, <span class="tag src-auto">с сайта</span> — фрагмент, найденный автоматически.</p>
+    </div>
+  </section>
+</main>
+
+<dialog id="card"><article></article></dialog>
+
+<script src="data/journals.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
